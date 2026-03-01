@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>テトリス</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="side-panel left-panel">
+            <div class="hold-box">
+                <h3>HOLD</h3>
+                <canvas id="holdCanvas" width="100" height="100"></canvas>
+            </div>
+        </div>
+        <div class="main-panel">
+            <h1>TETRIS</h1>
+            <canvas id="gameCanvas" width="300" height="600"></canvas>
+            <div class="controls">
+                <button id="startBtn">START</button>
+                <button id="pauseBtn" disabled>PAUSE</button>
+            </div>
+        </div>
+        <div class="side-panel right-panel">
+            <div class="next-box">
+                <h3>NEXT</h3>
+                <canvas id="nextCanvas" width="100" height="300"></canvas>
+            </div>
+            <div class="score-box">
+                <h3>SCORE</h3>
+                <p id="score">0</p>
+            </div>
+            <div class="level-box">
+                <h3>LEVEL</h3>
+                <p id="level">1</p>
+            </div>
+            <div class="lines-box">
+                <h3>LINES</h3>
+                <p id="lines">0</p>
+            </div>
+        </div>
+    </div>
+    <div class="key-guide">
+        <p><kbd>&larr;</kbd><kbd>&rarr;</kbd> 移動 | <kbd>&uarr;</kbd> 回転 | <kbd>&darr;</kbd> 下降 | <kbd>Space</kbd> ハードドロップ | <kbd>C</kbd> ホールド</p>
+    </div>
+    <script src="tetris.js"></script>
+</body>
+</html>
