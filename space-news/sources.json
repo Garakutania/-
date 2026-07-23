@@ -1,0 +1,15 @@
+{
+  "_comment": "クロール対象のRSS/Atomフィード一覧。ここを編集すれば情報源を追加・削除できます。google_news:true のフィードはタイトル末尾の媒体名を自動で分離します。",
+  "feeds": [
+    { "name": "sorae.info", "url": "https://sorae.info/feed", "lang": "ja" },
+    { "name": "Googleニュース: 宇宙ビジネス", "url": "https://news.google.com/rss/search?q=%E5%AE%87%E5%AE%99%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "google_news": true },
+    { "name": "Googleニュース: 宇宙開発", "url": "https://news.google.com/rss/search?q=%E5%AE%87%E5%AE%99%E9%96%8B%E7%99%BA%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "google_news": true },
+    { "name": "Googleニュース: ロケット 打ち上げ", "url": "https://news.google.com/rss/search?q=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%20%E6%89%93%E3%81%A1%E4%B8%8A%E3%81%92%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "google_news": true },
+    { "name": "Googleニュース: JAXA", "url": "https://news.google.com/rss/search?q=JAXA%20OR%20%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "google_news": true },
+    { "name": "SpaceNews", "url": "https://spacenews.com/feed/", "lang": "en" },
+    { "name": "NASA", "url": "https://www.nasa.gov/news-release/feed/", "lang": "en" },
+    { "name": "Spaceflight Now", "url": "https://spaceflightnow.com/feed/", "lang": "en" },
+    { "name": "ESA Top News", "url": "https://www.esa.int/rssfeed/TopNews", "lang": "en" },
+    { "name": "Ars Technica: Space", "url": "https://arstechnica.com/space/feed/", "lang": "en" }
+  ]
+}
