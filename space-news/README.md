@@ -30,7 +30,33 @@ space-news/crawler.py
 |---|---|
 | `space-news/digests/YYYY-MM-DD.md` | 日次要約（Markdown） |
 | `space-news/digests/YYYY-MM-DD.html` | 日次要約（スタンドアロンHTML・ダーク対応） |
-| `space-news/index.html` | 過去レポートのアーカイブ一覧 |
+| `space-news/digests/latest.txt` | 最新分のプレーンテキスト要約（メール通知の本文に使用） |
+| `space-news/index.html` | 過去レポートのアーカイブ一覧（GitHub Pagesのトップ） |
+
+## スマホで見る・受け取る
+
+### 📱 GitHub Pages で閲覧
+ワークフローは毎回 `space-news/` を **GitHub Pages** に自動デプロイします。初回のみ
+リポジトリ **Settings → Pages → Build and deployment → Source** を **「GitHub Actions」**
+に設定してください（ワークフローが自動有効化を試みますが、組織設定によっては手動が必要です）。
+公開URL（例: `https://<ユーザー名>.github.io/<リポジトリ名>/`）をスマホのブラウザで開き、
+ホーム画面に追加するとアプリのように使えます。HTMLはレスポンシブ＆ダークモード対応です。
+
+### 📧 メールで毎朝受け取る
+毎朝の実行後、要約をメール送信します。リポジトリの
+**Settings → Secrets and variables → Actions** に以下を登録してください（Gmailの例）。
+
+| Secret 名 | 値 | 必須 |
+|---|---|---|
+| `MAIL_USERNAME` | 送信元Gmailアドレス | ✅ |
+| `MAIL_PASSWORD` | Gmailの[アプリパスワード](https://support.google.com/accounts/answer/185833)（通常のログインパスワード不可） | ✅ |
+| `MAIL_TO` | 受信先メールアドレス | ✅ |
+| `MAIL_SERVER` | SMTPサーバー（未設定なら `smtp.gmail.com`） | 任意 |
+| `MAIL_PORT` | SMTPポート（未設定なら `465`） | 任意 |
+
+`MAIL_USERNAME` が未登録の場合、メール送信ステップは自動的にスキップされます
+（Pages公開・アーカイブ生成は通常どおり動作します）。Gmail以外のSMTPも
+`MAIL_SERVER` / `MAIL_PORT` を設定すれば利用できます。
 
 ## セットアップ
 

@@ -7,7 +7,9 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # 生成物のコミット用
+  pages: write      # GitHub Pages 公開用
+  id-token: write   # GitHub Pages デプロイ用
 
 concurrency:
   group: space-news-daily
@@ -16,6 +18,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # メール通知の有無を判定するために参照する(未設定ならメール送信ステップをスキップ)
+      MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
     steps:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v4
@@ -28,7 +33,6 @@ jobs:
       - name: ニュースを収集して要約を生成
         env:
           # ANTHROPIC_API_KEY を Secrets に登録すると Claude による論説要約が有効になります。
-          # 未登録でも自動生成の要約で動作します。
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_MODEL: claude-opus-4-8
         run: python space-news/crawler.py
@@ -44,3 +48,49 @@ jobs:
             git commit -m "宇宙ニュース要約を更新: $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: メール本文と件名を準備
+        run: |
+          {
+            echo "MAIL_BODY<<__NEWS_EOF__"
+            cat space-news/digests/latest.txt
+            echo "__NEWS_EOF__"
+          } >> "$GITHUB_ENV"
+          echo "MAIL_SUBJECT=🛰️ 宇宙ニュース要約 $(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_ENV"
+
+      - name: メールで通知
+        # MAIL_USERNAME(Secret)が未設定の場合はスキップ。送信失敗しても後続処理は継続。
+        if: ${{ env.MAIL_USERNAME != '' }}
+        continue-on-error: true
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.MAIL_SERVER || 'smtp.gmail.com' }}
+          server_port: ${{ secrets.MAIL_PORT || 465 }}
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: 宇宙ニュース要約 <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_TO }}
+          subject: ${{ env.MAIL_SUBJECT }}
+          body: ${{ env.MAIL_BODY }}
+
+      - name: GitHub Pages を設定
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Pages 用アーティファクトをアップロード
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: space-news
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: GitHub Pages にデプロイ
+        id: deployment
+        uses: actions/deploy-pages@v4
