@@ -409,6 +409,33 @@ a.back {{ color:var(--accent); }}
 """
 
 
+def build_plaintext(items, overview, since, now):
+    """メール通知用のプレーンテキスト要約。"""
+    date_label = now.astimezone(JST).strftime("%Y年%m月%d日")
+    lines = [
+        f"🛰️ 宇宙ビジネス・宇宙開発ニュース 要約（{date_label}）",
+        f"対象期間: {_fmt_dt(since)} 〜 {_fmt_dt(now)}（JST） / 収集 {len(items)}件",
+        "",
+        "■ 今日のまとめ",
+        overview,
+        "",
+    ]
+    by_cat: dict[str, list[dict]] = {c: [] for c in CATEGORY_ORDER}
+    for it in items:
+        by_cat[it["category"]].append(it)
+    for cat in CATEGORY_ORDER:
+        entries = by_cat[cat]
+        if not entries:
+            continue
+        lines.append(f"■ {cat}（{len(entries)}件）")
+        for it in entries:
+            lines.append(f"・{it['title']}")
+            lines.append(f"  {it['link']}")
+        lines.append("")
+    lines.append("― 毎朝9時(JST)に自動生成されています ―")
+    return "\n".join(lines)
+
+
 def rebuild_index(digests_dir: str) -> str:
     files = sorted(
         (f for f in os.listdir(digests_dir) if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.md", f)),
@@ -502,6 +529,9 @@ def main() -> int:
         f.write(build_markdown(items, overview, since, now, counts))
     with open(html_path, "w", encoding="utf-8") as f:
         f.write(build_html(items, overview, since, now, counts))
+    # メール通知用のプレーンテキスト（最新分を latest.txt として上書き）
+    with open(os.path.join(args.out_dir, "latest.txt"), "w", encoding="utf-8") as f:
+        f.write(build_plaintext(items, overview, since, now))
 
     index_path = os.path.join(os.path.dirname(args.out_dir), "index.html")
     with open(index_path, "w", encoding="utf-8") as f:
