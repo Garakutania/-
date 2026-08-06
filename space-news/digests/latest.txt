@@ -1,10 +1,62 @@
-🛰️ 宇宙ビジネス・宇宙開発ニュース 要約（2026年08月05日）
-対象期間: 2026-08-04 00:00 〜 2026-08-05 12:14（JST） / 収集 115件
+🛰️ 宇宙ビジネス・宇宙開発ニュース 要約（2026年08月06日）
+対象期間: 2026-08-05 00:00 〜 2026-08-06 12:17（JST） / 収集 116件
 
 ■ 今日のまとめ
-本日は合計115件の宇宙ビジネス・宇宙開発関連ニュースを収集しました。分野別では その他（41件）、ロケット・打ち上げ（27件）、衛星・通信（15件）、探査・科学（14件）、企業・投資（12件）、有人・宇宙ステーション（6件） が中心です。主な話題として「スペースXのロケット残骸 月面に衝突予定 NASAが観測へ、Voyager seeks relaxed requirements in NASA commercial space station RFP、SpaceXの決算内容を解説・考察｜2026年第2四半期決算」などが報じられています。詳細は以下のカテゴリ別一覧を参照してください。
+本日は合計116件の宇宙ビジネス・宇宙開発関連ニュースを収集しました。分野別では ロケット・打ち上げ（39件）、その他（35件）、企業・投資（15件）、探査・科学（11件）、衛星・通信（9件）、有人・宇宙ステーション（6件）、政策・防衛・安全保障（1件） が中心です。主な話題として「衛星ペイロード市場は2035年に473億3,000万米ドルへ、CAGR 8.9％で拡大｜衛星通信・地球観測・防衛需要が牽引する次世代宇宙産業の成長戦略、NASA and Roscosmos continue seat barter agreement、スペースXのロケットが月面に衝突、超大型望遠鏡が衝撃とらえる」などが報じられています。詳細は以下のカテゴリ別一覧を参照してください。
 
-■ ロケット・打ち上げ（27件）
+■ ロケット・打ち上げ（39件）
+・スペースXのロケットが月面に衝突、超大型望遠鏡が衝撃とらえる
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE85SnBVV1pQUW1tMEg3eXRET0J0Zlh3bTVYal80RlFER0F0TnVtUWM5YzZtSDZFOWR5TDZNZTNPREYzZExfakw4WUg1WGMxRDJMdHdxYw?oc=5
+・ロケット残骸、５日に月衝突へ スペースＸ、５ｍクレーター発生
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CZm9mdWNjTDRySVhka0hmb2FCUVVvTVJoRUNBRnFJM0c5SU9aT2FpcUJjMHF2d1ZLRFNyc2x3TW5GdnFvQklLcmhOUDE4bjI1VEE?oc=5
+・ロケットの残骸、月に衝突か 望遠鏡で砂噴出データ観測
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxOejFHSWVIVkVYU0VGX3p0cnAzZXdYd0VyTGIyd04wUDVKaERxOXlrTVpFNHNRX3VJUGdhQVd4ZEZzaGtwU0RpMFlMY29EbjFIWnZxNi1XbHgzZWltYzdSTENhanhKUVdGVjdXSEZoY0JYbXNyTUJXSzhsOW5mUER0bU1Kdk12MVhqLVNHNmJOWFZZREI0NU9Mb2xIdW5STHE5enlJ?oc=5
+・米スペースXが打ち上げたロケットの残骸 月面に衝突か (2026年8月6日掲載)
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ucmFIdWdFLUZqZlRJNlZhMjE5azUxZl9WRkd2bVdXLTN3Z2hYZXlJX0dTTW1XRGdCbDZNZWwzNUh1QlZDb1NTY216eG9nTDAxbG5SaGRhcGhyUmVOM2c?oc=5
+・スペースXのロケット残骸、月面に衝突（中央日報日本語版）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWjhFNmpNV3loT3dVSjhlVEdWQ3JQV0lDM3dwUWVWVjg3UW5pZGt0M1E0SGVJOW5vOGpUV3p0NnhHOFpSNVhlTDhwZlVKbnFycjdiVHR5MnMxMGJESno3dmd2M1hhYUNsMXp1N015YnZVY2VKcHBsN3dyQTIyaVU?oc=5
+・ロケット残骸月面衝突か、砂噴出データ観測
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBveE5tMGZGVFhBVDhQTUpzVHE1OGtZTTBBWnRfa0lqRmtJT1Rzcmo2U1E5dzc4eXB6cmxySG0xeExDbGxjUnFGS1JJSmVnMWZWU1lkTHZUMHVPbk5RSkFZdHNPLUZ5YnBCanlPZHg3SUdvbDFJ0gF0QVVfeXFMUG94Tm0wZkZUWEFUOFBNSnNUcTU4a1lNMEFadF9rSWpGa0lPVHNyajZTUTl3Nzh5cHpybHJIbTF4TENsbGNScUZLUklKZWcxZlZTWWRMdlQwdU9uTlFKQVl0c08tRnlicEJqeU9keDdJR29sMUk?oc=5
+・New Glenn explosion linked to rocket engine valve
+  https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/
+・打上げ日時再設定のお知らせ：QPS研究所小型SAR衛星13号機(※1)「ミクラ-Ⅰ」米国Rocket Lab社Electronロケットにて8月6日（木）に打上げ予定
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5uNlM5TWdOejk4WUJxX3Fab0NkYnNad0xzTnJ3TmlMN2pUUjBrQkh0eldSZFZVZlk4VDlDUm5udk82TktWcFI4V0JRbUVERmx4QTl1NXlCR0luYlNiTDNHaXBlckUySm9EWVE?oc=5
+・打上げ日時再設定のお知らせ：QPS研究所小型SAR衛星13号機(※1)「ミクラ-I」米国Rocket Lab社Electronロケットにて8月6日（木）に打上げ予定
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1maW11cmRHSWxUM19LbndPUkdwa09aelI2ajNZMGtKTkF4SnZCOUxnZTdsZUFfeTd0YlJsOVdBM3JtMkQxU3lqV1lHQWgyR3B2WWQwQW5taC1FaTlud2ZaVFhXQ3RjakRSMW54X2xMYmpSYzg0bkx2OGNR?oc=5
+・打上げ日時再設定のお知らせ：小型SAR衛星13号機(※)「ミクラ-Ⅰ」米国Rocket Lab社Electronロケットにて8月6日(木)に打上げ予定
+  https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uMWtBeU92clVSbXMwTFJyMnlLcHFjbGVHSGVvem5aU1BpM0puOUtuNFlsRkJmYU84MmNlUXpBWEdkUQ?oc=5
+・国産の月面輸送サービス構築へ。ispaceと三菱重工、H3ロケットによる月着陸船の打ち上げ輸送サービス契約を締結
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuTTVQVjZuWmo5b29kTGNGSDBUdGFKSWt3VVhYNXNOWVRjRHRhVjlBMUhRRWhSQlJ2QnFYcGJuWGV1MzB4aU1YZVBvZDV1aE0?oc=5
+・スペースXのロケット残骸、時速8690キロで月面に衝突か 深さ4mのクレーターできたか（FNNプライムオンライン（フジテレビ系））
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBOOVJCZ0RrQlFCb1UtSlB3eE9JY2IxN1lPbVI2ZHQtYkdPaFlUdGZ2ZVJJWGg2U2p1QTl0RmRJUGRJVzV6aGVRcWpZMlNKTm5nUmsxUHlhSGxBenRRa05CMU1Da1VYaUQyU1J6cFBGME5GQnY5YU40T3FJbHRSR1E?oc=5
+・スペースXのロケット部品、月面に衝突－宇宙空間を1年半漂流後
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxOQk9iRUFfZERkOUFpT2g5R0ZwbHh6dFcxQlhHNDEyZjhKc0N0aTZvNndXWXhwQXRtd3I4bWFLZmJMVWRCWEhIRVoxUDJrOGtDeERBRjR5S0ZycHNlMGswMWpEUTVhQVpYOVJxYUVyYTFWcnduaTVuM0ZGR1NHNTdDRWJLZWkyMWU3VUgwWllB?oc=5
+・H3ロケット9号機 打ち上げパブリックビューイング(大分県)の情報
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2Yjl0d0ZrcjZGNGFESnh3U1ZiS2t2S2pEQ1ZYODdzR0t5X1pyWGo0R1RUQkl0RUg1b3ZwUWZwR2kzeWdvN04ydlVsSlpqVUxSdUppMms0UkJac0U?oc=5
+・スペースXロケット残骸 月衝突か
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE40b1d3cVRmX1FWY3ROWS1JanktRXVRLW1IcXUxWjZvNkdZZkdfMDhwUXljNFBzSVd0ZjMteERmWUl5QmFsTkdWajJVRGJ0aC1X?oc=5
+・H3ロケット9号機、台風13号接近で打ち上げ再延期 みちびき7号機搭載
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hX0lDQnZWMFhVVllCRGNRWUVZUDNJb05GOUl3bVlDakhpSlprX2NHRUFjNTVkUlhnTnkyQ1BoLURTS0s0aEJaOHJia2hORHRmQ2Nn?oc=5
+・中国、山東省海陽市沖から衛星2機打ち上げ
+  https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0ZZSy05VHpOb1gzcVR2ZlJ0Q0NraVQ4YjhHclB3V2Q3bnE3SkJzTFB1VmVFMjY1R2pmdF9ZQWgwMFMwUm9ZdVcwODVmUHA4b1hiR3kyNHVSQUJ6TGt0S3R0VlpzWWZ5UFVNMWdzdGpaWC1qcWRTeE93VXN5c1pvcHc5VnBaQm81dlpPZUJHOXrSAZABQVVfeXFMTjNGWUstOVR6Tm9YM3FUdmZSdENDa2lUOGI4R3JQd1dkN25xN0pCc0xQdVZlRTI2NUdqZnRfWUFoMDBTMFJvWXVXMDg1ZlBwOG9YYkd5MjR1UkFCekxrdEt0dFZac1lmeVBVTTFnc3RqWlgtanFkU3hPd1VzeXNab3B3OVZwWkJvNXZaT2VCRzl6?oc=5
+・中国「捷龍3号」初飛行から12回連続成功 AI搭載の高分光観測衛星2機を軌道投入
+  https://sorae.info/ssn/20260805-smart-dragon-3.html
+・スペースＸのロケット残骸、月面に衝突か ファルコン９の上段｜Infoseekニュース
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ca0s0dmdtVElJNVRKN3RaZWc1VUdTOWRsWjhuRm1CMUFzV3RXSThLdkp6cU5DS0VQeVFLak53ZEZPSXZwY1ZyQXc0Qks0b0hFOXd1eWd0UlBYb0podmplMEFCZ3NPSFBsZjUyRTJB?oc=5
+・スペースＸのロケット残骸、月面に衝突 欧州望遠鏡が噴煙観測
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE5DaGxISGNoZnVrWGVmMFpQOV9Ubl9pdmxvTVpZdm92YzVsRWtCMlFHVm5nLUxIa3dhd1czUElBMjZXNjBOUHNldjFGZmFGdGNEdjNyc0VINmpJQWpYdUlfWmE0V19YTzFuMk9YRTdrNWlnOVVkZjlSbVdR?oc=5
+・「宇宙は見上げる場所から行く場所へ」ガラリと変わった宇宙港の風景 小型ロケット「ZERO」発射場整備で高頻度打ち上げ目指す デジタル技術でリスク可視化も 北海道大樹町
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1zeHU4UHJsWVZZT3JxczZZSXl0enNPdG5lbGV6VmIydklaTmJ4SXRiOGtOVHhZeGhwMy12SFNvUEJ3VHBDSW12T1IwdXgxczVyQ2puMmx4RjhKM3dSamtDOUQ5ZGc1UUQ0cHdwemZDaW5pUdIBckFVX3lxTE1zeHU4UHJsWVZZT3JxczZZSXl0enNPdG5lbGV6VmIydklaTmJ4SXRiOGtOVHhZeGhwMy12SFNvUEJ3VHBDSW12T1IwdXgxczVyQ2puMmx4RjhKM3dSamtDOUQ5ZGc1UUQ0cHdwemZDaW5pUQ?oc=5
+・SpaceX launches 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral
+  https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/
+・H3ロケット打ち上げ目前！ “聖地”種子島ってこんなところ（Science Portal）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQUdRR3Q5UDFjOENxNlZTRGNnend2MjNzTnVXcnkyRDdJMXR2NXdZY19OS1A4QUF4eFNvM3prempLZmc2MTJtWFdzTUFidC14WHowMU93Z1VYWEZ1NXFFS1VwY2pxY3JMWGV5NHdBMm9oSkYyY3JLbi1HYl80UlU?oc=5
+・H3ロケット9号機の7日打上げは延期、台風13号の影響長期化の恐れ
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pczdZYVdMOXNaZUNrdnJDRGY5MWJQSUlDaml5NkJSeWpSRGE4SHpOTENuQnMyc1V3di0zOWFVTGhBel8xUEVPZU44VUR1aW13LTgwNGZsZ1k1XzdyOHdmOFdTekUxZnBX?oc=5
+・ロケット・ラボ、米宇宙軍から3.97億ドルの偵察衛星契約を獲得——設計から運用まで一貫受注
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBrTThXRUd6bkhRc1U4OVItSE1uS0dfNFFTT1BBcjJITE9hRnFGTk1KamxjeVI5NDA0UmdaNmJGWGlNSmc3ZGluWTA3V1Q2emZrWE1hX2lnbUxSSDFSUmpvMy1zZlh3cFRIcEdkTlAwOG41Zk4z?oc=5
+・スペースXのロケット、まもなく月に衝突へ
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Oc2tYWHMxTUUzZ3hiSnRDZDRKa3dOY0p4YWRqU1UzVEI5Tmx3NW9zYmNBU2ZEVWJ4b2VlZldhSWMtSUZhOGpXLS1UdjFSU2cyVE9BRQ?oc=5
 ・スペースXのロケット残骸 月面に衝突予定 NASAが観測へ
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNm50c2x0Zmp1M0lNUUo0WHI3RGw5RWZtcGZHNms5d2Z0RFJyRmVEOFhORm9rX3BhMWZhZjA3TDhYa3ZYRTZCN19kekdfWi1US3hvYnZqZEhNdEFXek53?oc=5
 ・【G17-53】スペースXがスターリンク衛星24機を軌道投入 1段目は34回目の飛行
@@ -19,231 +71,183 @@
   https://spacenews.com/spacex-to-begin-starship-orbital-flights/
 ・Rocket Lab, STR win Space Force contracts for airborne-target tracking
   https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/
+・サイバー藤田社長が登場！ホリエモンのロケットに出資した理由とは【堀江貴文×藤田晋】 Paola Caruso Compagno (jeRhXJBjxo)
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Fa2xfS05Na3JfUC13cTJ1RVkzcEtWUk5jbHA0UGd6ZnhEVE9ZYzJJREJUTk84dHd6bTdlYTEwNTlSeDRwR0s0SGlsNl9SNnVlemdqT2FQYmFwbkU?oc=5
 ・NASA Will Attempt to Observe Rocket Part’s Lunar Impact
   https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/
 ・「キングダム」からロケットまで MUFG、新産業創出で勝者総取り
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5dFkyZ0ZZWHhIWkszVklvUjZ5TDNiLWN0NUMtdld2SFlVUk9ldEswQUlwb2dSLVNkT3JGT0NMSmtabkVBT1RFZHZrMWtxUS1YUnRPdGpTTkNDa2x3VFp1TVE3UTFXcHc?oc=5
 ・スペースXのロケット残骸、月に衝突へ 人工物で過去最大級
   https://news.google.com/rss/articles/CBMibEFVX3lxTE04QXJmZkNHQ1RwNW5ubS1fMGF5WWpEVkpFQ1plWkZyazR5TW5tSnNxZ2tLNGk1Y2RnQ3NuLUoxWUJWb2dDdGlXTVdUbjk5ZW9LUVJheDV3REsxX3o1cjY4bEVDbHcwQ0cwWk00cg?oc=5
-・Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+・駐機場でのペットボトルロケット体験、HOSPO遊覧フライトなどを実施 9/16～10/16にHOKKAIDO
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE82SDF2RDk1Z09tM292NXVQQlhGMWFlZE5zZ1NMOUI2Mzgxby0wenc2cmxlNWFMd0FuWml3dlkxQTdmRGYydFRPNXZhUnhLU3J5dDVCclAtc0hCN2ZDcjZqLU5IUVBYZUVCZDVfQmRkRUpJSFFLV1E?oc=5
+・SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
   https://spaceflightnow.com/2026/08/04/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-13/
-・SpaceX’s new Starfall program offers validation and competition for reentry startups
-  https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/
-・韓国ロケット「ヌリ号」5回目の打ち上げを10月以降に延期…衛星推進器を交換
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oU016OVpoX2dvb0E2OWtFcF9SWnFDc2JSeXY3QzlqWFJGckYwNUxiOUh4TDdHNEd0cjl3eEJGZ1k5M0UtZ2VQUlVwd3BITnBmbDhacdIBVEFVX3lxTE1oU016OVpoX2dvb0E2OWtFcF9SWnFDc2JSeXY3QzlqWFJGckYwNUxiOUh4TDdHNEd0cjl3eEJGZ1k5M0UtZ2VQUlVwd3BITnBmbDhacQ?oc=5
-・韓国ロケット「ヌリ号」5回目の打ち上げを10月以降に延期…衛星推進器を交換 (KOREA WAVE)
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUp2VEd6aFpRRTJBbTdWYXZsVFpVZGNPaVZaYm01SlRFNWM0eXhBSHg1Y2xIZU5RcTVvdGhVYUZGRW1hbTRKUmFYLWFEWV9aQ2VZSXZwUE40YzNMNUxwck04VTYtTUVsUmpyTnVWWkZKTHNOdzhqbk9acWhhcFN3eFFCM1V5cWRKZ2c2MlRR?oc=5
-・Rocketdyne reemerges as standalone space company
-  https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/
-・駐機場でのペットボトルロケット体験、HOSPO遊覧フライトなどを実施 9/16～10/16にHOKKAIDO SPACEPORT in 釧路空港を開催
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE10MURjQU44Q2NSdWk0WjI3R0pyUm41NF9nYU5UaVpWbmJNajVtZG80b1UyVk45dnAxdkJwSDZTLVAyVHBKS0Rod2JwRWJWTDBwVkwzQkxVWmJvVWdvRTc0YTRxRnlSU0cyQnFZ?oc=5
-・JAXAが「H3」ロケット9号機の打ち上げを台風接近にともない延期 「みちびき」7号機を搭載 (sorae 宇宙へのポータルサイト)
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVRydTJ0ODlXcGQyd2QzMVNTN1I4X0NqWkNINEZUem5WZWdVOVp6YThpUDU5eVhLeDRxcEpBSWxQdWtWblp2TE9aYzVBbWZaNlZ5RldrRzBIM1Q4ZGR3Y0F6M21DR1RQUjZZeThJZjkwdE5iQnJWRk5uZi1DV0ZLM1JZNTlfWnNIOW5mNEp3?oc=5
-・JAXAが「H3」ロケット9号機の打ち上げを台風接近にともない延期 「みちびき」7号機を搭載
-  https://sorae.info/space/20260804-h3f9.html
-・JAXAが「H3」ロケット9号機の打ち上げを台風接近にともない延期 「みちびき」7号機を搭載 (2026年8月4日掲載)
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qWWN3cDJIYy00alAtalVOREJzWGJwa0tvVDU1d3V3WGpuZTJNUnNVVGY3Z3NkcFRqMW12aVgwcDhtc2h5OEZGU2hHZjZLelpNeFdMYmdRVDFlblBHUmc?oc=5
-・【画像】H3ロケット9号機 天候不良で打ち上げ延期
-  https://news.google.com/rss/articles/CBMifEFVX3lxTFBGaUh4eDhKeHNSSUNvMXJpdXUtcXJWZW1COUM4Q2FKbV9WZ2FYSmJVMUZxUkViMjlzaFNLZWQ3RlprSEJLVUttZktGS1IxYmZCRktxVEZnZlV0X0liLTBKZ09YZ0tMZWdPcktjb25BT3VwdTBNMjFnQlM3OTU?oc=5
-・画像 | スペースXを猛追する中国ロケット勢には注意が必要だ…宇宙産業も太陽光パネルや電気自動車と同じ構図に
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Tb3U0WS0yd1ZMc0lqdElvYjZhdHNIc2Q5MTlSejFsZ2MzSGNYTlJKQUNzOVZVTHpPVlZyeFFmVjNwTXF0ZzJ4ZFlKaWFCYkc2a25TYVdkNA?oc=5
-・中国のロケットに落雷、上昇中に機体を稲妻が貫く【動画】
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yMUxSTU9HODUtUVRPaWZ3N3ViOXFOenFKcm9QTnBLUXp5R1ppZmFyZkV4WGNSeXFVcy1YNFJxcGtYTGYtLXZRcXVMSkNnYVpUQnpEQl9maw?oc=5
-・NASA, SpaceX studying how to prevent future upper stage lunar collisions
-  https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/
-・日本宇宙産業に14.3兆円投資 打上げ30回へ競争導入 - CHOSUNBIZ
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDNaV2hDSGhDQkxLR05CRmFrTkpueElPX1BjNDFoSXZ4R3ZDNFZqem1hTnFDMXVueFJ2S01PdnFvanUxTHVCanBxVHJZVnhTVkpmY1VIVnAyVXJwTlpEdnA0eWc3czdydEtjSUxuSmxjT0tpZG82VEdOVW53TWx5R2hNWHVWb0Qw0gGcAUFVX3lxTE13OXVRZWVIRHBYN1RIMV81c1dIUVdGejBCNVFrTm1jSjJYRi1YMS0wSGRDTkg1N2IxUDNUZFJBS3c3ekdSVjRxNU1nRnBhWGpZZ20xSjBMaGdXakJ5Smx1ekd3Qjd1Z0VCNWJGUlBPMDVuT19YdkwwUkstcTlTOE95ODl0YllhNC1mMVdLYUFXOEVjQnFaQXdBempfOA?oc=5
-・「H3」9号機打ち上げ延期 JAXA発表 台風１３号の影響で悪天候予想
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJOFFxYjNHUHVaNHl3alZjcjUtZE5nWmlUazhNRmdIc0JrMGF1b1RnVkxTYnZ4UU9ZUVY4c2JURUxmZldUUFRYMXlGdFlvNGNKc3lYREln?oc=5
-・社説：再使用ロケット試験 能代で培う技術に期待
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2RlRlTkR5aG1oWENaSU9qeHpjcWhWcjNiWEJsZkMxSjhCWjFYTkdqbDdWSVYzLWtaeE5VTV9KaDg0N3Rxa1gxbnNCOU01R1FPN1dfYVZIR2xOb1FQQzQtQ0Z3?oc=5
-・〈高市戦略17分野 キーパーソンの勝ち筋〉ロケット開発に競争原理 国産、年30機打ち上げへ 政府が新興の成長促す
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5IZkdxbmZ4WDFsbFEyVGFLTlRLeHdyZFdaRWdWSFpqY0xrUjZtcWREQ3cyMGg2NDhMWlZyVHVnenlyS3dmS0JmMXJsdHhXdWVlc3dCb1RRZ2ZJa2hHUEVydWFhcmVtbC1HY0NVQg?oc=5
 
-■ 衛星・通信（15件）
-・August 2026 Satellite Puzzler
-  https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/
+■ 衛星・通信（9件）
+・衛星ペイロード市場は2035年に473億3,000万米ドルへ、CAGR 8.9％で拡大｜衛星通信・地球観測・防衛需要が牽引する次世代宇宙産業の成長戦略
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE41RFJQVW5uQTJJOHA4SUpwbWxQSkh0SjRqTTU5d0RZVnB2bE1EUm16X3JiOElTLVI5VzVCWk1GeW1IRTlPdWhjWVhKRWkxMkk?oc=5
+・宇宙軌道上燃料補給市場は2035年に49億64万米ドルへ、衛星寿命延長・軌道上サービス需要拡大でCAGR 12.70%の成長を実現
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vTUExU0phZ0RkYkVpZktxNDRMS2VvaFpTQ0lZd2VXY2t6YU1HVHdyaGxOcS1BaXZGd1hKQU9tZ3MxRWRSYzh4eEVyclpkZk0?oc=5
+・地球に落下する人工衛星のアルミニウムが大気に及ぼす影響を調査
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFA2dUI3ai1OcWdaSXo0WHJPUHVETDc4TUtTRnc4QVlsVDNoMEhKa0VfRm9WUTRGYmlnZlN3cHpuVFg2MGNVUFkwZHJ1SzQtZ0wta2ZfSG5zWlk5UjhLblRmM1ppd1o3V3doTnlSZWg0RnU1ZU5yX0F2VEJfZw?oc=5
+・Finding room in Starlink’s shadow
+  https://spacenews.com/finding-room-in-starlinks-shadow/
+・バイオーム、JAXAと共同研究を開始 〜衛星データと累計1,100万件超の生物データを統合し、草原・湿地生態系の「状態」を評価するモデルの実現可能性を検証〜
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTa2JqS3QxcDcyZGxOZ1JseGFLQmNYSE9fd3pxX0FiTkdHRE5EOENmUXNXQnZYVGp1a2w5VXo5TmVjN2lPZ092N2x4ZmNYVHJtdGhRZnJ1clZ0VXVLXzBlUUhkVkc5dw?oc=5
+・Satellite manufacturing thrives in California despite cost and regulatory pressures
+  https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/
+・小惑星「ニサ」は3つの塊がつながった形をしている？ 地上からの観測で衛星も発見
+  https://sorae.info/astronomy/20260805-asteroid-nysa.html
+・JAXAと産総研、AIでSAR衛星データを解析するための基盤モデルを公開
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ERWJIWktGWmlJNXdpTjRCY3F2bzg2MWpob3FxRXhfTGo4MkxMN0ZTUFAxMFI1N0dyWmpiNVJTbThTVlE1cEVB?oc=5
 ・Military demand shapes market for satellite propulsion
   https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/
-・海王星の小さな衛星たちはトリトンに破壊された衛星の残骸でできている？
-  https://sorae.info/astronomy/20260804-neptune-inner-satellites.html
-・古野電気、LEO衛星測位サービス「Pulsar」の衛星から実信号を受信
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HUUFSd2Jqa0phSmZQNy14Z29MYWdDS1JGamJKXzZDUmM5OXk5TzFPTVBaQngtVzN6OEx2R0tMc2RuVzd1UDdGMzBiMVg5aldrNGFr?oc=5
-・仙台のエレベーションスペース、人工衛星の管制センター公開「ものづくりを宇宙で行う時代が来る」
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMTU4bmQ5NWRfSlhNUTV1aDNtcTFTTDE2Rmx4elEtSUtGSC1TWS1DdkVwQVRHbXdCalpSUVh6Z0Zjazl6UjhvdGRKalFCQ1hIalhjS3gwQS04dnNOQTZyYQ?oc=5
-・東北大学発で人工衛星の管制センター開設 仙台・青葉区
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4VzNpRlJRckZPTG9rQ2xvODd6bzZnY0Z2OHZtbHd3YjYwa2hPU1REdnhrQjBHNHdJU29xREQ1NUdjN3p5ajQyMU5ibmw5eVU?oc=5
-・ブラックホールに“何か”が衝突。人工衛星がとらえた「宇宙ジェット」の画像
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHR2aXg3ZERRT1U4RHF5eGNHem52UUVNR092RHQ0bzN4bkVTUVFaR1VHeWV6MzlzenRZRnNYOW9zSXZKeTJmM1hNenkydlltOS1PanZ1VFpQSFB5MDRZSGVxU3d0Rnc3bG5pMEhwbXhmaTNXNlZsalFfTXVvdjRaRkVuQy1Kb3pVUmJnMGFUeDBtbjFYbzBwdUhEV0Jmbmh2VVBvaS12U29WcW8?oc=5
-・衛星コンステ、日本の勝ち筋は「負けないこと」 宇宙開発の最新動向を三菱総研が解説
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HX0plTTRtb1BiNEgwWjdzN1JTNVVYajdzUk5ReTQ5MGJ3bEdfbGxXaUJqelRCMDVmTG9yRHV6WEc3bVhxQ0xrTnByMVJRVjNGa1E?oc=5
-・宇宙新興エレベーションスペース、仙台に衛星管制センター開設
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUWtNNlJvZTM4QjdGVExtMEo3a3d4SjJCclprd1BrOUp6UnV1VU9WRlE2RHdsUE5kVzFna2NudklDWmx5UTNGMUlXcnJTMkdQREM2ekFYMEF5WnR4cC1IZVNDanZ6NnAyTjNmNQ?oc=5
-・インド洋を漂流するスペースXの「スターシップ」、人工衛星画像が捉えた回収作業
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5ZHVaRktXakRBOU5ORVQ2MGZHZ0NnSnU3Yi1DUEkzM1RDRU9LSFZ5YWNnTC1RQlpILTdQQTljUlk2RTdOUlc0TGFRcDBFVmh0bVFZbg?oc=5
-・インド洋を漂流するスペースXの「スターシップ」、人工衛星画像が捉えた回収作業 (CNN.co.jp)
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUJzOWNvdG5jRHAyQ1BBQnprZjdGbDQ2VkpZNXFJTWJJMXl5U3h5ZXRqbnlQNkpiQTIzWVE3Yk9kWmc5ODZlSjYzMDNzZzRUWTlkaWFIM0VlY0V4OGFGUVFJZGxQUV9UazUxZFdMcFRJZ1JjWjRMWmJ3WE5LUGQ2YXMyTXFLXzFkMnl0U0dR?oc=5
-・スペースデータ、衛星画像から山火事の焼失範囲と焼損程度を推定する「Wildfire Watch」をリリース
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5BbGxkbHgydXBVOVlmeHU3ZHMtTDNqSm8wOGpORnhsSk53R0lfUFZqOHM0T2RveHlpOHFpTDJhTFo5ZHBnVlZoZThKLUtIajhINjRBVDhxWnFEY2FVQkVLMVI0aHl5SFlrcEE?oc=5
-・米国ユタ州で開催される「40th Annual Small Satellite Conference」に出展｜ニュースリリース
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sd2dHbXZmemM3OHZ3c2lmbGhMRlFKQzB6a3UteVZ3eG0wTmFMZDJFUFRMVXdqblVVZUJuREFGZ3Y0Z0JMMFpsZjB0ZG5KQk9yblhYOUZ2OFg?oc=5
-・Hughes files for bankruptcy after GEO business loses ground to Starlink
-  https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/
-・Xona secures spectrum approval for satellite navigation network
-  https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/
 
-■ 探査・科学（14件）
+■ 探査・科学（11件）
+・月のクラフト制作、宇宙に理解深めて 村山、本県出身ＪＡＸＡ職員が教室
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9XTlJTc0cwU1F4YlZ2RDV1YW1jeFQ3R2R4T2QzZE4tNHNWaDROckdKX3FoMEZGbzV0Q0hqSXhaRmVmS093UWItMmY4VE1RUEp1cHZFbERiSXNEeWs2NUkyRldyVmowRTZfOHIyVEMtNA?oc=5
+・「宇宙兄弟」作者が書き下ろし、JAXAのロボットアームがISSで漫画を描く (2026年8月6日掲載)
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wRWxySEpJRUdmUUNkWjk3dnFsSnhOQzhYcXhzTXpERllMWjZZanNhc0E1azFsU2d3Nnh2TzZvV0xTYzNwYXZCYThLQmp5Q04yUkZhRk9zRUdrQXFjU3c?oc=5
+・ミサワホームなど、ＪＡＸＡと月面基地向け技術研究
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbXZhSndIWEoxNEFsejlVQTdjLUt5ZTBxa181LUxKLURKNFlhY1ppaXpVU2JGZ3NRSnFPbkRTdHZGU3lpNXVWYzBTYnpobUZ3NUNn?oc=5
+・Artemis III Orion Crew and Service Models Joined
+  https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/
+・NASA’s Perseverance Captures Phobos and Earth
+  https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/
+・NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon
+  https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/
+・Your chance to run software in deep space on ESA's asteroid mission
+  https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission
+・50時間にわたる観測で見えたその素顔 “ちょうこくしつ座”の渦巻銀河「NGC 300」
+  https://sorae.info/astronomy/20260805-ngc-300.html
 ・米宇宙開発企業「スペースX」AI投資で850億円赤字 上場後初の決算 今年4月-6月期 通信事業好調で売り上げ増も投資が膨らむ
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE9TREd3NUlhNEFxUVVUSWVWbGNmTUpMclBJNldGV3ZaVTN3SGo3R1BjcmZqSVVNYTI1cGVxamVCQmNFa2RTSU1FNG0wQW9fb1p4eVBmQS1tWGltMzZrZTZVcC1jMlNmQUY3dFBVNkln0gFzQVVfeXFMUHJQYk9jbWZXRHp6MDV6dmFlUTFqU3NDWGVyQ282RmczZU10bmE0UGFRNnZDYU4wYnVEa1ZaMVFEZlNlSkEwX0ZNNEpuODRUSmxCOGRWVDVteHBNZndNbkZpdFFxUGFDVkg0N3FTUmw0NTVNRQ?oc=5
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xU1paVEl1V1NQcGY5Ym1lX05tcHFhV09tdS1SUWd5SkhvR2lDS25rQVA3SVlmUkJVS1lKUU9qUGowOEdsUnNNLUZWLWRiOENvS1hhU21zTQ?oc=5
+・米宇宙開発企業「スペースX」AI投資で850億円赤字 上場後初の決算 今年4月-6月期 通信事業好調で売り上げ増も投資が膨らむ（TBS NEWS DIG Powered by JNN）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE05VXRnRkVybnpoSWNoRjNmVGd6QUg3Y2diNFFFdFRlWWFnM0xDTG5XT3NuUl8xQkFVUERJWWVPSkhmdEk2YXRNUy1PNjI5RGVxQ1V2a0hpekRaUXFybk0xelBWanpxMUNreWhMVmE4UEdFM0I4cDZkR0Z0MHhhZmc?oc=5
 ・ポケモンと欧州宇宙機関がコラボ。10月4日から10月10日まで開催される世界宇宙週間を記念してイベントを実施へ
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yODVYQnNvREREZzlfNVNUSTAwV0tyVzVRNjNaN2ROMS01bk5hWW5yWWJGUV9tVjExbzIxZm1zWC0wWlB0Sncxdk8xLU5zb0MzQlp1WVBzM3o?oc=5
-・米スペースX、4～6月期は850億円赤字
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE11RmFXR1BvQ1MyMnpIdkp2TzdYX1lxS1BWYkE3TkxaY3g1dzNWcV9hTkJfd3UxWmE0SUZrc2JSbXJVejJjc0xySFFla0s5TGJIVV9qOTg1MG1NMnBibUVkOTNGdnlpZWgxR1Z3X0FhdUk?oc=5
-・【速報】米スペースX、4～6月期は850億円赤字
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Gd1FKYU9XbG9iSjlVT3ViQlRudXpkRy1fdF9RWTJQSksxUzlTZ3U5RFdDRzJBU1VQb3BRSnRGaFVONTJta3hnM0xRUQ?oc=5
-・米スペースＸ、４〜６月期は８５０億円赤字｜全国のニュース｜Web東奥
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UW5qa1JwSUNUbXEtZ09mUVRONndKcXRPcXFNTHctWDN5U093RHgtaEZNSGUxVzd4Sjh5VXhJN3Utd1pvaVkyWGtmSmVReTdORXpzYmxzYkw?oc=5
-・NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations
-  https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/
-・Roman Space Telescope Plaque Install
-  https://www.nasa.gov/image-article/roman-space-telescope-plaque-install/
-・ESAとポケモンが期間限定コラボを発表 2026年10月の「世界宇宙週間」を記念
-  https://sorae.info/news/20260804-esa-pokemon.html
-・「隕石の衝突に耐えられる強化ガラスのドームで覆われています」マインクラフトで描く未来の月面都市 JAXA監修の教材も活用した最先端の授業＝静岡市
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5scGQ5RWM3cU1oTmpzZy1Ma2QwUWNUMUVUSkhFWnNXS0Q4NUpTRzIyclhxRlJxNmR4blZJMUViVXdtcFNJWHMyMHpacEQyUEE3Y1k2MEQ0SQ?oc=5
-・2026年8月の星空情報：12日夜～13日未明にペルセウス座流星群を見よう
-  https://sorae.info/astronomy/202608-starry-sky.html
-・月面に原子炉を建設するための競争。
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVUx4OE02WmwwLU9EbmNqLXlzdnVra2F3R3plZXpNMXp3dFhyOTR3cWEtOUlITGtoTEdjMGh4WHBJZU9VMzBpN2IwN0tGVUZMUndZdjBsbHFESDhVVlZ2eWk5YnZGQTQzbzFRSEV1ejBCQXdla0lXaXN0emR1XzQ?oc=5
-・e-とぴあ・かがわで夏休みフェス 月面探査体験や最新AIロボット体験も
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zQXpqRjVkbG13ZXBrd0JfMFlVc0RLY0dxZ25fb3B6U0gwcjVWUnFJN1ROdzN0YXlYRVFpeVJQTzJMV080aVVsR1A4OEJHa29XR1AtT1VB?oc=5
-・穏やかならざる星形成の現場 ハッブル宇宙望遠鏡が観測した「干潟星雲」の中心部
-  https://sorae.info/astronomy/20260804-lagoon-nebula.html
-・Lego deploys Hubble Space Telescope as detailed desktop model
-  https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/
 
 ■ 有人・宇宙ステーション（6件）
+・NASA and Roscosmos continue seat barter agreement
+  https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/
+・Capella, Iceye and Umbra win NRO radar-data contracts
+  https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/
+・Advanced Mini-laboratories Automate Space Station Research
+  https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research/
+・APOD: 2026 August 5 – Spokes on Saturn’s B Ring
+  https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/
 ・NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test
   https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/
 ・Ames Science Stars of the Month – August 2026
   https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/
-・Future of Crew Dragon weighs on commercial spaceflight industry
-  https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/
-・＜画像3 / 5＞宇宙服のプレゼントも！ JAXA宇宙飛行士と仙台たなばたを楽しもう
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GTlFQdmtvbkxxUFBKSFEwQUpKUkktY0dXQmY4MHF3MVJWdkd2NmROeWRtSjdhVkw2OUhIRGRiMUU3UlFwTzdUcjdCdlFzdHVtR25Kd2xWUk1tUHdqWGM3SndrYng4ME0?oc=5
-・APOD: 2026 August 4 – Curious Cometary Knots in the Helix Nebula
-  https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/
-・Guinea-Bissau Tidal Waters
-  https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/
 
-■ 企業・投資（12件）
-・米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE50NFU4d1hybFRYdk02UGRBYWRoN0NuV3JHTm5WVjJWV3lkazNjUVFrczZBNnZTZUpockIwVzR2R2tnYnVKalVsZlFBR1ZnSERIc05UQWUwRmtadm9PVjk0?oc=5
-・スペースX 850億円の赤字 上場後の初決算 AI投資が利益圧迫 売上は92％増
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE14S2huZWEzQ1hkdTl2SzRjZUlOd3FER2dObDMyMUFZc2hEZkQzRVFlcWRJME1MWmJaOEV4cHhZMnAwZ3lkbGhyNmVKT25MTEI4OTVjSlBYdVRlVnlGSUVPMC1IdW05UzFFTVFOLXhn?oc=5
-・スペースX、赤字850億円 上場後初決算、AIが重荷
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5YZk96NlBCOGdTd1NCVV9OMmVvWmxqWTFhcmdFUWxTWWFWUEMwdlc2cWpSN01MclR4MVBCZGYzdFY0WnlKTHlXS2doVFZQM3o4NURRVU03V1dOa3EweExxX1pUUEdWM3dmMmNMM1lB?oc=5
+■ 企業・投資（15件）
+・スペースＸ、個人投資家の買い越し続く 決算後の急落で押し目買い
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEEzeEVNaTVfSmNaTkg2YVJraWtLYU03TlQ1NDYtWnV2U3ZsSUFoOVpIelhBeVJyMy1hN09INW5Kb1lQNHQ0eExwQnpKTWRLYi1SbTZGUlNqTTlEX3l3ajhZMFZrWm9VZmt5VTdLU1RGUkxiY0RrQ2NGcmRWOXZfQw?oc=5
+・なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析（LIMO）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTmdfZXJxSzdaQ3NIeHdKT2RKVzY5UndWYzZYZmVFUi1iQUpqeWFwc21OdFcyYk1Gek8zVlVkbldBdVFKdVM5SmpOQUVORmhvU2RiTjM2SXRTSERMcmFvZjQwREhmVnd4NUhqOV9TUjBTb0M5dFFJOFBaMWpmR0E?oc=5
+・SpaceX spooks investors with debut earnings report
+  https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/
+・元巨人・槙原寛己さんが語る株式投資
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE01S3dXMzlmcVNwamJ0Z21mQ09NWkRTajRzaVhRRWItSmR1U3ljWjNpQkdmZFBqb1BqYzFCWHo4SkYzUEt4VGxEM1psMzJleGFMRkdEMlV3aUthQQ?oc=5
+・アールツリー・イノベーション、自組織主導でのビジネス変革の要となる「ビジネス変革メソドロジー」を日本企業向けに提供開始
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5EMnJoeWdfTmQtZnhHbGFHY1VHU2lQWDRZYWYzVk5JcjE1dWJBVWE1VGd1NlhIOHJqZjZTbTR0TUdwYXRsTjQtazhyRF9mbVNZUGF1bVNtdk9UNEY5UzRqMk9JYUowejBxM283R0FpMUhWdw?oc=5
+・米宇宙開発企業スペースXの建物に表示されたロゴ＝4日、カリフォルニア州（ゲッティ＝共同） - スペースX、赤字850億円 上場後初決算、AIが重荷 - 写真・画像(1/1)
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5SU53eG5TUFk2TFBXTmJBNW4zMV8wY3RfdkhSX2FRQkpRSXg5Snp1ckJ4VUhHSGFyVUhEUUlSN3pkcEUzZU1DTjJMNDdNM0U4OGtzNkJ4dw?oc=5
+・「億の指が折れる」水谷隼、投資の“破格の負けっぷり”明かしネット唖然…“フルレバ”強気の豪快セカンドライフ
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFBTZFMwZ2pxOGNRSlpXb0htb3dncjJ3TjVlOGJ4bFF4VUxVb0JYRFNwSC1BTE5kZG0xVzFIb0RLRFV4dVBaU0N2ZDEzV0UxNXFEZkNsNXBFMGg0ZXVkNXBTcEpUbFVHN195dXZkd0YwZC05TlJvQ1hNTEZIaw?oc=5
+・Neuraspace raises $18 million to expand sovereign space awareness
+  https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/
 ・スペースＸ、赤字８５０億円 上場後初決算、ＡＩが重荷
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CallNdFplZ2RLMHpiOWhqVEF0YjBQMTJLaXFJMlhhbG5vYzJjYTYxcVRZNC1JbGpXMEVsZ1Y5SXg1UDgtZjh4LXlaNnBPdVhFa0E?oc=5
-・なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LX1prdEpweGViSWtMNkZLLWxYQzV6RThoMlNra1hoWnNjQjRxYzVLS3QxWHBZTTRNSDRGNkJzTkxYaUtza2FsODFNMkU?oc=5
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44T25KcU8zaERodTJreDF3Mk01dGExWHRoczIwZGhFRHZxaUJFZjZZaWVrWlp1SWEtM2RlWHBMeWxOZUFrdHJ6Xzd0bEFjd2hFaXQ1Nk1NcGpsbW9RdVZHVTJlWkgtekE?oc=5
+・スペースXの赤字850億円 上場後初決算 AIや宇宙事業の開発費など重荷
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1OMEY0ejJXRFo2NmxJRnZGZEtSMTB0Wk9yOE84enVobDZqMFNxUmFHcGVzM1NkSlRBenozVkVSSUtOcS1zUVdfVldKQkUtdlFEVjlxZFFyUTdnVWx4OHgyWlN5aFV1TGpRU3IxenhMa0JMUWxybkE?oc=5
+・スペースX、赤字850億円 上場後初決算、AIが重荷
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBoM1FuSE5kNnhORjdRejY0bkY5ZGFmVGxIdVB6NEVfMThEUFdhT25sZjhubXY3SExtbFFOdTgyWGtwUXItV2hBMUFSZW5HUURyNkQ0MTNIMVgzMXktMmphM21zOFI0LUFBYU1DU29SONIBdEFVX3lxTE9Xb1EzN0t6SFR4d3UxeGpwNEJQaHF2LWgxQ2U5dVBwZDhWbzRJVER0ZUNyczlseXc0NV8zNVVVWXc3SUx3WnNfbk42SXN4Z0ZHNWlucVE0QzlqNzFWT1U3VldfNE56VGsxU2QxSEZXcm55WmFw?oc=5
+・スペースX、赤字850億円 上場後初決算、AIが重荷 (共同通信)
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFhMZGxKT1ZlOE1ESzZGOVVFVm42U2ttclk3OVZjYjZhOEJ0T20zblBBY3k0UXl0MnBBZ1ZZYUl1cms4S25RSmVmNGQ0OEtEaTlrbmo1dXNkSzRwdXlocHc2V1dwUjVfeXBRSjNxMloxMGJzQmpFcEF6UzZtcDhnRFh6VEhGenhmSGR1Q0ZR?oc=5
 ・Telesat lands $1.63 billion Canadian defense contract
   https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/
 ・赤字を掘り続けながら900億円超を調達、民間宇宙ベンチャーispaceにはなぜ資金が集まるのか
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcTR1X2xyeHJCeWJ0YnVnbkNNSG5LMDVKTHdYRi1DTEE5VzFNakJoTDhDdUtQOUxhMTNmdEhGVXlXM0c3YVZva0VhOERndW5FMXVYck1R?oc=5
 ・NOAA purchases Spire hyperspectral microwave sounder data
   https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/
-・JR東日本が博士専用の採用枠 初任給35万8000円、「忍耐力・統率力を評価」
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPMVdPYjE5bW9XODQxempxU3ZjVWM0djZlaGlqMGc1ajFqYnVpUk1LODhlZl81dFhKZGhZbmpOcWptdzRlWm1PenNpaVpNZXdKV190YVhNUXhOSWM0QmMtc092bXhPSDg?oc=5
-・三菱電機、米Array Labsに1,000万ドル出資 ー 宇宙からの航空機追跡技術を事業化へ
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE54dGxabWRleFNNV2t6WDRxS0xIbkJtTHpKZHRLSlA0dVNhRjY1ZVk0VmtuUjAzVFJhcjVOUENSLWVQMERjOHNxblYtcGowdjg3Q1E5R0ZGLWUwUQ?oc=5
-・Kreios Space to fly VLEO demonstration in NanoAvionics bus
-  https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/
-・20兆円の宇宙投資を推進…ハンファシステム、大規模な経験者採用
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZkN2OW94YW1TNVk0Qjg3MThRa25CaWszTjdUd0pnZEVRM0VqRkl2LXVZZHZ1eXdZejlWdW9kUy1hVWhPWlp1UUQxdEtOMEVva055OGRSS3RScGs?oc=5
 
-■ その他（41件）
+■ 政策・防衛・安全保障（1件）
+・Think tank warns Europe’s orbital compute gap is widening
+  https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/
+
+■ その他（35件）
+・宇宙開発の技術を、日常に。"構造美"をまとうポーターの新作がお目見え
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9UNTdfT2Y0Y3R4NHhXNzNsTUlxaXFDYWQ4ME9mQ3I4VzJzb2ZianppRFZtZDd3eFZmUExGN29yLUpDUzZiRHhvME1QeDNsUXhoXzBmeUU3eGJkU0pKNzlmaWJIUDN4bkFzT2hqWDVwY2c1V1pYUWhlbnJGMmRULTg?oc=5
+・ギャラリー：宇宙開発の技術を、日常に。"構造美"をまとうポーターの新作がお目見え
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5VOERLWmNZV3hlNlA5VDhnM1RqYzJITGtQSkVabVVzeWVMaUhIMTZYZXdSb0FFYUVHZi1HLXAyaFFlR1I2NUpCWkJxSXN6WHJfMW1HVXFtRTY0bjZOek44WExnUjVub0xMaUE?oc=5
+・宇宙で漫画を描く“人類初の挑戦”「宇宙兄弟」作者がオリジナルストーリー書き下ろし JAXAのロボットアームで可能に
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWdhQ1FGOGcxdVJHc3ZXUzhvazc1SHFrN3d6V3FuOXNDSGlMUFJqc05CdG5nMjhnQ0w5SlBSc2x3MkxKR21hVThZRXVNS0c0MktUcjJtMmtwUXRKY1VIdWY2dTJSQmxoZUtzSFQ0dENsWG5leEVDLW9iWE5aWk5vVFpB?oc=5
+・自己資本比率95％のキーエンス、14％のアップル 比率が低い企業は危険なのか？ B/Sだけでは見えない財務の実力
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE90UGwtUkxBeTV3Z2JVRU51SzBJaHJJTktlVUkzaFE0S0NYZlRabGI4bXBpVXlUWDUtanpKb1BibEdVMU05N3JicUxYMVhXbzZuMFhlUnRB?oc=5
+・なぜ資生堂はジョブ型人事を導入したのか？ DE＆Iを組織に根付かせる人事・人材育成の仕組み
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpM29sS2xwYktlZXo0UVVZeVMzU1BqT0p5S1pZdWx0XzU0cEUwalYwUHdKQmhZSzRwRnpBWmo4OHRacWgzRTRyT2xRUjgtUWRqM0hDS0JB?oc=5
+・復活したソニーと凋落したモトローラ…「ビジョナリー企業」の盛衰に見る生き残る企業が利益より大切にしていること
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcEZaZW9lTXZ4VmkyQ2VrWWlkVnpHNDhBUUladlJyR2k1THVHV0ZHaUZwbXpCUS1nTUlpUGc1SndCN1UxX2RoOW5FSFVHeHNVZml3TlVR?oc=5
+・クボタ社長が明かす、自前主義を脱して挑む「企業価値経営」の道筋
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TcmRXN2czdWo2cXB5ODhoMU5wZjBhU2FoMm01a1lldVZxbFVCeV9JU3FBR2w3YlJtX2JSaWo5TVhkSllkbnRRWVk4Y3Rkak5TRnd4Qy13?oc=5
+・アステラス製薬は「特許切れ」をどう乗り越えるか？ 人事トップ・杉田勝好氏が語る改革の真意
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XWWxDMzhzdElacDB3Rl95dFB1RWV4SjhFUGdLdFJkVnhrRDluTmY3eW5SV3ZRb0NGb01KUC0zSkhKOWJBU0ZQUG9lRHM4dTB1NjFTY193?oc=5
+・元経産省・和泉憲明氏×ヤンマーHD 常務取締役が対談！AIファーストのデータ基盤再構築戦略と実践プロセスを深掘る
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yYzVmRjVPN0hlUjVtdUExYWR4Ujk5OVpkbzZ3ZGk5X3FYbWpweDZTM0tpbTBpRHRERE5lcmRTZF9QVU92bkV4SnFfQ2JZNHVIVTRRaXdn?oc=5
+・「この会議が会社を変える」JAL再建の転換点となった業績報告会、稲盛和夫が数字で根付かせた「経営参加」の文化
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDVm04ZlVSOEUtbWRpZWRsYzJjczhxTlhFcmxTSTVpbkJRUER0WHB1cWNyUG9zRGJyQ1VRTnVCNHdfQW5vUXFqZmllVTVaV2NVX2FzMzZ3?oc=5
+・「IQより愛嬌」 SpiralAIが目指す「役に立たないAI」
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LNmx5QVRWQUthT3IzTWxKSXNLRHBEWEFJSWpkNFk3UEFia0VJZ3U3cFZqblRfUk9haGY1Z3ZJYXRjZlJwM0pLQW84SkVGb2JFVzFpQi13?oc=5
+・NASA’s IXPE May Have Proven 90-Year-Old Theory
+  https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory/
+・“美脚炸裂シンデレラ”元女子キックボクサー、“豊満ボディ”のビキニ姿に「最強に可愛すぎ」ファン絶賛
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE1NMHF2cFVVdDdUUnFZUGFiNUpTQUpIaUtuN2hJTHZ5MW5zLXBJUzZiOVdIeEdMbzVLUTFFZE5ZTGNwdWVUdDloeG9ucm94elRjeTF5ZTRkWmt0ck9oTzVicjg5dG9VM1Y2eE9BZW0tTzBlRU1PQmlUT0Qtaw?oc=5
+・ＪＡＸＡと共同研究…北越コーポレーション（長岡市）の製紙技術が宇宙へ ＡＩ活用し「電波吸収体」開発
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MbnlEcktYYkdhM3owLWx6WTY2SzBEdHVwdHFLbnNYM2lYZWFQUS11M1dPcnVIaGhUaUpKeEJXbnpyUnFfTjBWTC12WFpyaEFMRWw5X0FCWHdfWnlWcnc?oc=5
+・Europe’s forests losing more biomass since 2018
+  https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018
+・（写真）アニメ×NHK・JAXAの宇宙映像が融合！ 『宇宙なんちゃら こてつくん』映画化＆特報公開
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zVnZsamtWT2FINy1Lek9mRnNaakNBbmd2Z2tMaDI5aS0yam1uamZvS09BOXlQelRLQ09GSDJaM2YtSUVWVEJIN3dHb21kZjBGUGlRVlpzOW92QQ?oc=5
+・Total solar eclipse: how to watch live from home
+  https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home
+・立命館大学、文部科学省「大学・高専機能強化支援事業（成長分野転換基金）」に採択 | 立命館大学のプレスリリース
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1kZEF5TDg2c1pyY3Y4bHdmSU5kYmhHWW4wc0JScVQtanFnNVdNV3BxZDIwSlpYWmpsaWZTOU9NY000MXNtSXpnWnhSc2I2bmhlZnhFZ3ZtVzkwOGIzdTBVSVhjdDBfM0NqZlE?oc=5
+・株式会社バイオーム、JAXAと共同研究を開始：時事ドットコム
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9xRWZNWGk0WjRoandBSUVFQXJCamxkbVRpb1dhSnVQa2pGSmVIWmdLb2dDZmljWG9QNTV0T3hncUhuanUtblkxaEZ5dXJVeFZ1REk4YWIyMkJNVDBadnlOM3ZpMWt4dlplaUVR?oc=5
+・スペースXが本格モバイル事業進出の方針表明、大手3社の株価下落
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE5YRlJ2aXVjaHZheG5sS0lveFo5cVVFbk1WSlJBNDEtdkJUcDJJenItZW1ud3ctQmVPX1pXRTdIRWxhN0RKM3RwTXktMVlZVzNpcW1Zalk5OHNNWGs0MzNhZTIxRVFMR1RNYUE2akpn?oc=5
+・スペースデータ、情報セキュリティ国際規格「ISO/IEC 27001（ISMS）」の認証を取得
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFB3WW1Xa1JERGNBYXJ1aXRVV2c2S3poUFlpLXM3NHFiWHNuLUxtcGNXQ2ppY2NaZ19ER1JYZGxXMTJGX2pKQ3E2Zmp3RTVjYy1CSHYwdnVGQ2dhY05LRXdvVWx6STZKZks2eV9xTW5aWmVEaW9fOFE?oc=5
+・The Paradox of Lençóis Maranhenses National Park
+  https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/
+・水素航空機市場は2035年に6,502億8,700万米ドルへ拡大、CAGR29.16%：脱炭素航空・水素燃料インフラ整備が加速する次世代航空市場
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkUFRId0ItX0hYaWkyR2dTbjVhQWt4am1nOXJEYXItdjBYcEpsUW40enhpX2xYZjRKOGpYeFFzeTd6bUsyM1d3?oc=5
 ・Voyager seeks relaxed requirements in NASA commercial space station RFP
   https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/
 ・SpaceXの決算内容を解説・考察｜2026年第2四半期決算
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zN1lYdFZxOWc0QzBfTWExX20xaWI1bW1PLXFXZG1OOC0yTmUxWm5fV1NWX2VjWGNtbE1rVjFIZ2wwYl90SWJLbnA1SGxsMHFn?oc=5
-・スペースデータ、情報セキュリティ国際規格「ISO/IEC 27001（ISMS）」の認証を取得
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eHIzZ0x5UGJ0RU9yaThWbjhUdDNuU2FRc01iOVRtSkdJalFFckFza3NEa2FJaFBUZkRFejJfZ1NWZ09zQ2lWWGZtV2ctUkZVSkZkejU2NnhtaERVZVh0dzhkcnB4Z3BNT1E?oc=5
+・【解説】スペースX初決算！ベールを脱いだイーロン・マスクによる「宇宙×AI」の収益力
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1odC1VejR1dHlHNndINXd3RmNJMDh4OG9YbVFSdmgtSVRWeFRWMkItMWI3bm5mYkhISGlPaTJZSkVkLW9nVG9rc1dVTHlTcUVXbERud2NLQ2Uwdw?oc=5
 ・印メガベンチャー「Paytm」も惹きつけるルクセンブルクが仕掛ける産業育成エコシステム
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE92U01fYUY2U3RxQ2l3U01zajVwbWpPcklfcllTVkxRZEFENEc1cjFRVUhfNEh5d2VNT2xWSkw3YWF3OXVnODRnVnd1Y2dCZ0JJa09tNw?oc=5
-・17時退社は当然、土日勤務は免除…資生堂が直面した育児支援の「歪み」と「資生堂ショック」の実態
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZFBJNTZpSUg0M090a3JReDVtQ0hQWWNoRXYxZkRIdHp0SzI5LXk2NTFZVmh6Wnc0dlFwYTJpMHF0S3dzeDBIbkdJYVRIWUxiYUpZVjNn?oc=5
 ・H2O荒木直也社長が描く食品スーパー改革、人口減少の関西で勝つ戦略
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xUVptVk9TVXV6OHdkNFV4RHVXNTdXU0F2WHpXdDlLU29DV2NkSUczVmJQNHA0UHJ1QkdidWF4Z19oSlFVdkRUa0pIYUdVekN5WWkxQWhn?oc=5
-・統合報告書、CGコード、IPランドスケープ…2026年が知財経営「元年」と言えるこれだけの理由
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWEwtS3o4OW5mMS1VdExldVVtQU14WWtveFYzNlhwOVdNR3lka3ZMWGNZdWRRQThZaFFaQ3NxWVFYTjJHVmx4R3p5NkdTTENlMVZrZlFn?oc=5
 ・修羅場の現実が転機に、ダイヤの原石を探す関西ペイントの人材戦略
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuR3JyUVdpS05FSnVCWEprU0ZDTjc2ZjliYnpHQlpPMmtLR3ctVUVwQWVKR05fNzRKRmEtS1J5UEV6ZFRFVzQwZ08tQUdOUkhic2Y4RlR3?oc=5
 ・クボタ、レゾナックHD、コニカミノルタ、日本総合研究所が語る「企業価値向上」とは
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MUFliTlFNWnVNWm0wMGJ6TGNpTlVXd1ZtTHp0VnByOHRLUlNHNXBmenhnMlJvYnlsU0JHQkMzVHhjdGROcGpFNFJQQ0trdVJjdWhNMTln?oc=5
 ・重要顧客から得た最先端ナレッジを武器に攻めに転換、日本通運副社長が語る世界で勝つ営業戦略
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZjh1eUNvSlRzZmY4eW0tdHZNNzNNMU9YMUdNcjBCd0dkeUZRMmd3QXJhc1ItS0xhRlp5TUF1bGZrOVlIak0xOURWVE84MFg1ZUV6XzZB?oc=5
-・スペースＸが初の四半期決算、92％増収 ＡＩ・スターリンク好調
-  https://news.google.com/rss/articles/CBMieEFVX3lxTE5NdS1tVlA4ZFdKX01wSzY1c3RZOWoxalRsbUVQMjBqVjBsSFN5djJBNWx3Sk9faXROdFd2VEdNUF9xeW5OcDNoOTBJVjhwWVlIVm1MNXRaVkd3NHdnY3N6VUV6TGlpVDl1X3BIRHVFbnFHMW5xaXR4Sg?oc=5
-・宇宙兄弟が18年半の歴史に幕。完結記念番組をABEMAで独占放送
-  https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sbnlGMEtPdDdhWi1ocExkOVZ6R2o0Z0w4Vzc5bjhzT0ZwRlA2eUxXY3R6WkFGYVJnNUotNEFib1N4a05FUGc?oc=5
 ・［トップに聞く］宇宙産業の成長支援
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GX1N2TGhDb3VUQWFjdlJ4b2dMTFlNNzE1OXBHRDY5bnZ2Y3I4eU8xUGcxS0Q2ZU5HSDlGZ0Foc3ItYnFiZUVwUGh2NGJybU56QjZGbTBnanpNV1NISmc?oc=5
+・AeroEdge（エアロエッジ）の脱炭素に向けた取り組みが、パートナーであるNeutreeno社とケンブリッジ大学の研
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMFc4RGJ1dHRPZEtGRlBYTDhfSEJvak5SREh1bHJCeUw4TVB3eEpnQ3hZeEpPMk5BTk85VGJKeHJoZFpzWGZLTURpclBGNlA5YzNzN1dCVTZxUGJXT1RXRGxtdjFUMzVzZUE3LWl5cy1jcFdUckE?oc=5
 ・〈高市戦略17分野 キーパーソンの勝ち筋〉JAXA分割も選択肢 自民・小林政調会長、宇宙研究の産業実装を重視
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1xcXJib1A0SnBfbkh1aUFqSTdMd2VENjNZVXFFYWYwUWU2dHl6T090RUdobm1sdTh3ZkNNNHI3ZFBSdnQtQ2lqX1NmbDZNZXJZbjMxS3JhNHIwZVR5STJOWmVFSVI3ejRmYktjdg?oc=5
 ・Rubicon ASCENT thruster moves from hot-fire testing to production
   https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/
-・L3Harris株は$845百万の宇宙事業売却を受けて$277.86に小幅上昇、取引は静かな動き
-  https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVFMUVMzNVNWZ3lxSnFia2RlRkdKUlluOWZDVWRmcVBKVk9CbUw2M3FNbWs1aFE5cDZ4VzA0NEVTNVZJX25hMEpuU1prWmhOcFRKUVQ0SXRRenhqYURLTEJrRFowVlFwbTBCQ1B5ZWE2akJ6dDFud1A2LTlSZjFZN25wQ1NUaWoteE1F?oc=5
-・日経平均株価は為替介入による円高が上値圧迫要因となり、5日移動平均線を割れば急落リスクも！ いまは円高が追い風になる内需系の大型バリュー株を狙おう
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DbF90RjZMc2pOTllkTWI5SU9DUHNXUkpBS1o5cXd6cUNSTG95dlh5RUZlQTdtSl9WNDFnRVVRTHlOV3BDTjhjeERUVllOdW1TeFY0?oc=5
-・河北新報社 ビズラボ 河北経済研究所
-  https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mVHRoZ3pVWTZzckNmUDZNX2FnMlp0dHBCWDNVVHVrVzdzTkt4TXZFV3lwa2haOFptYW5VMml2SE1JN0tUb3RDWG9R?oc=5
-・腐食検知センサー市場：主要メーカー、市場シェアおよび競争環境分析（2025～2035年）
-  https://news.google.com/rss/articles/CBMie0FVX3lxTE9Qa0swZTZNS2FRQUotcGxhbkViclZZTkx6SGlrZlhtdGdnb1N0bFBjWWQ0TE1sT0xNbXJBZHJPVXpyRHhNNk05cms5N2FzajZ5cDRMR1otZThDZExKakJXblFhS2pzdWpIUFdvQnJKNjBsWW50RTNmcGRkcw?oc=5
-・ESA and Pokémon team up to celebrate World Space Week
-  https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week
-・空飛ぶクルマ時代を支える人材育成へ 法政大学・日本航空学園・MASCが三者連携協定を締結
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TSGJka0JQd2dha2lGa3ZYV0lmQ1gyclhiYjZPY0xpamFkaENLTmhKb1BqT2RQNFhMZUZsOTVjVm1iZllTTmpZdEUwSUpzUk9VOEdUSA?oc=5
-・JAXAベンチャー 天地人、日本下水道事業団と下水道管きょの損傷リスク診断で共同研究。静岡市上下水道局の実証フィールドで、下水処理場の流入水データを取り入れ診断精度の向上に挑む
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZT3JJZWY2WXNwSkp2Tm5CdE9UT2RZVThXaFR5bmZZQ1ptcVFJc0RNNXBpRjJqS0FWZVJRY0tRNzIzOFlzLWw1aEFrUFNtUEVZLVlLbURnODNOYmQ1a2YxUzdqaW1JS2NZU2lj?oc=5
-・【成層圏へ高校生の挑戦】 ～高高度気球で宇宙へ行きたい～ ｜ SBプロジェクト
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SS3N2UlE1S2d6bnVuOGkwaTgxakRIWGlyX3BCUlFId051WS1MUU83VzQxd2ZfNFB2ZzNKZXo4b3A3dDM4bG5wVFNDbFZpSDV4SE00?oc=5
-・Smoke Streams Across Eastern Washington
-  https://science.nasa.gov/earth/earth-observatory/smoke-streams-across-eastern-washington/
-・ソ連の宇宙船への「反撃」：冷戦期における最も大胆な任務の一つ - パート3
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFhxUWkyVVRRaWpzTTdGX3h4dEo3RjRGeDVhaVFPLUY4d01VdzE5Z0VrNEZzN0NZRnRlREFLX0dQT3NrdXFySUpqMXJFYzdiQTEyS0F0MUhKRDVIZDBScElaTENFODI4c21ZVTdYc3RNZkJ6UEZWWUVJRGo5a1B6MmRRenZuZUo4anJ2SnVKOUQ5djZPczZ6VzI3RndZRjdJMG1lalQ4OTZPQQ?oc=5
-・楠木 建氏・伊藤 邦雄氏ら登壇「良い景気を作る」経営企画の次なる役割とは＜期間限定アーカイブ配信＞
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YYVB2TnktNmRUVlNDZDF6RGVBWVhEMVZ4dl93VTdfcXRyYmF4RnNTdGdJNzdMWlhSWUxua0lyZUNXZ0ZzcE5WS0U2bGhwd0d0akVLcnBn?oc=5
-・ガザ地区で24時間で18人死亡 停戦発効後もイスラエル軍が攻撃続行
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE8yaTZoOUpDX3NqVnlyNnkzaTA0ZkgzOWhEU3FqVFZSMzV0VU5MVFVJTXRYRW4zNkx5bEVFN1VXaWFfd3pUWFd2RWtHblVUSjdEUHpWOXctR1A3YTVONzM0dGp0dDBaUUZ4TjVWeHpB?oc=5
-・【本日の材料と銘柄】中国、宇宙で米国との格差縮める(フィスコ)
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVBDZ1JRZTdlR1ZYXzFYQUQwbVJuTGwwc0hIM3I3eWktb1dVUnpabnRiMHNWLTR1ZnFyWW01dVpPTTdnX2VMOXZMVXROREhQZEh0cmlkenZ6Z1dwSUs5M1Y0SjNLY3ZBSzU3QUJZVjE4ejNzY3lQcmNXa1k2S19FRTZmVjRSYTA?oc=5
-・売上89億で負債は31億 なぜオンキヨーHEは民事再生ではなく「いきなり破産」を選んだのか
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0SlJKSmk5LWNnRTRSVXJGclN5UXlmX3Z1MFc2Q1JuYVg5N1dFcURXWDJXZnZyXzhWTkd3MVR0Zzh5VnhCNW0wQjcxeENPMUJrdU8zWmd3?oc=5
-・若手の離職をほぼゼロにした中小企業、相次ぐ「ホワイト離職」を食い止める効果絶大の取り組みとは？
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE91TXhFV2hfaGlSMC1XdkF3b09RZ211NVQzM0ZEaUVfYUsxN2RvZFN2VXNQMGRXS3BGUEdJRHhiQ1N5NEpua2Vqbl8xWnZKSUVFQXk5TmV3?oc=5
-・どうすれば従業員に自分ごと化してもらえるのか？ 富士フイルム、任天堂が力を入れるパーパス浸透施策の大きな効果
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE53N0R1ZWItcjhZdWVBUDFHdWd3TFU0dWRDS191bVc3dVlKdFlfQXdZUGxOY3ZYZ3g5SjB4YXZpMlo1Zzd2S29uREVoQURPRzBDaUFVQnBB?oc=5
-・サブスクで普及を促すアイロボット、「キャズム」後の競争を迎えたダイソン…家電市場で起きている変化とは？
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE83d1pYWTdfdlRPbURkU21SS1JRTUpBb2xaa3F2dlNVeWpNRGdSSDlPcnF1WkVaMFE5SlI4VVhySWZUOUNnaGdhaHFmTS0wR20xcnM2bFpB?oc=5
-・日本マイクロソフト、三菱電機の法務変革リーダーが登場！企業価値向上に資する法務部門の変革アプローチを深掘る
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BQWU3bUwxeUlFY0RRUHZZLURwRWwtcF9fVUhhTzRzY29pZ3hZbkd1YUdPNWM5UXk1N01MQk1LUDB6RjcxcmVzWVJmUVc4VUZtVlhpYjRn?oc=5
-・「実用的なデータは国ではなく学校にある」 元文科省の尼崎市長が語る基礎自治体発の「教育EBPM」基盤構築
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lREJQYkZhaGRXQTdqNEhEd0hrcjN5WmMxSTVqWVJDNW1YMVBBem5JOXVhcVR3NW9Kb0dFQmxoVkFqUjJkMW1ocWo5b012cGd6ai0zNGR3?oc=5
-・ワークマンが絶好調リカバリーウエアの「作りすぎ」を恐れない根拠
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zMUhMT0tvMGh2QzFyYmVfZmF0cFBRak9pN3ZoQUN4Q1pxcUUyMC14dzFTLUhRS2VrR1VwS01EdzZmRUZOMWdFSTZoOVN4bW90UnNZS3h3?oc=5
-・経営統合を「日産に断らせた」ホンダがSDVでは協業したい理由
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WUGZSSmRZc0VzSWNQc0lSODdONU9sQ0hqNXBtanU3Q2d1S3paSEE1QmtkMkVySm9OSDJIZk5YZUd6NE40ZW9NVDY1YkJqcExhNnAzVXh3?oc=5
-・自民・小林鷹之政調会長「JAXA分割も検討」 宇宙の産業実装に比重
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE4tdHRObW1OWmh1alYzYmp0U3F0UDY4TmlsYkxvbXE4TENMTS14V0tKbEFxVEE1MjJjNWpSNlFSanIxek9KMUNfMzNaQlBleWxGakV3bXlKdmRMSFhrOW9ZMGpVYXpBYlBFd0VWRQ?oc=5
-・江口巖商店、“世界初”の人工流れ星実証プロジェクト「Starlight Challenge」にコーポレートパートナーとして参画
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EN1dHYm9Qd1RzMEJ2WVEyTDBScjJTbTJodWxRQ3pKY0NJZjAydVBjMTV4MUJxMHFxTVkxVENuSktGS2tyRnAtUG9aWUdFRGttV1ExWk55NDU0NTQ?oc=5
-・茨城出身の学生らが最新生成AIで地域貢献 国際工科専門職大学の学生が水戸市長を表敬訪問
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRy0xOVRsYllBNFZQSmFZY0s2ekhpZF94TG1MNWxXMkpNQWNpZnRZOC00R2VRck9mb0lJWEl5QjNsSkFmSUxYN2pKa25hb2Z6TmdiblBuVWZ3MXVkNmtHLUF0Y2Zkd0ozeUJvdENXSQ?oc=5
-・Louisiana Students Loft Payloads from NASA Balloon Facility in Texas
-  https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/
-・【新番組】ANAセキュリティリーダー、元経産省・西山圭太氏ら出演 AI時代のサイバー攻撃、「集団」でどう守るか?
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbVVSeUkwT2Nya01scWh6bXFYMW9ESjI3dlByNzVFU3ZaMmtNMVJtTktjUDhhZHRxUlg0OURDYUF6UXFGSXR5MTQweXZkZnBOaGFSczhn?oc=5
 
 ― 毎朝9時(JST)に自動生成されています ―
