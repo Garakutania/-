@@ -54,6 +54,7 @@ jobs:
           {
             echo "MAIL_BODY<<__NEWS_EOF__"
             cat space-news/digests/latest.txt
+            echo ""
             echo "__NEWS_EOF__"
           } >> "$GITHUB_ENV"
           echo "MAIL_SUBJECT=🛰️ 宇宙ニュース要約 $(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_ENV"
