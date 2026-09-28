@@ -531,7 +531,7 @@ def main() -> int:
         f.write(build_html(items, overview, since, now, counts))
     # メール通知用のプレーンテキスト（最新分を latest.txt として上書き）
     with open(os.path.join(args.out_dir, "latest.txt"), "w", encoding="utf-8") as f:
-        f.write(build_plaintext(items, overview, since, now))
+        f.write(build_plaintext(items, overview, since, now) + "\n")
 
     index_path = os.path.join(os.path.dirname(args.out_dir), "index.html")
     with open(index_path, "w", encoding="utf-8") as f:
