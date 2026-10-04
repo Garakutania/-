@@ -1,128 +1,80 @@
-🛰️ 宇宙ビジネス・宇宙開発ニュース 要約（2026年10月03日）
-対象期間: 2026-10-02 00:00 〜 2026-10-03 13:52（JST） / 収集 95件
+🛰️ 宇宙ビジネス・宇宙開発ニュース 要約（2026年10月04日）
+対象期間: 2026-10-03 00:00 〜 2026-10-04 14:25（JST） / 収集 66件
 
 ■ 今日のまとめ
-本日は合計95件の宇宙ビジネス・宇宙開発関連ニュースを収集しました。分野別では ロケット・打ち上げ（36件）、その他（21件）、有人・宇宙ステーション（17件）、探査・科学（12件）、衛星・通信（7件）、企業・投資（2件） が中心です。主な話題として「APOD: 2026 October 3 – Selfie at Vera Rubin Ridge、JAXA宇宙飛行士･金井宣茂さん講演会「宇宙へつなぐ 上越の未来へのバトン」、NASA有人ミッション「Crew-13」打ち上げ成功 7時間55分でISSに到着（sorae 宇宙へのポータルサイト）」などが報じられています。詳細は以下のカテゴリ別一覧を参照してください。
+本日は合計66件の宇宙ビジネス・宇宙開発関連ニュースを収集しました。分野別では その他（27件）、ロケット・打ち上げ（17件）、有人・宇宙ステーション（8件）、探査・科学（7件）、衛星・通信（4件）、企業・投資（3件） が中心です。主な話題として「スターシップフライト14の打ち上げが宇宙産業に新たな時代をもたらす、熊本県天草市沖に生息するイルカ＝1日午前 - 人工衛星でイルカ行動調査 三菱UFJと熊本県天草市 - 写真・画像(1/1)、APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey」などが報じられています。詳細は以下のカテゴリ別一覧を参照してください。
 
-■ ロケット・打ち上げ（36件）
-・NASA有人ミッション「Crew-13」打ち上げ成功 7時間55分でISSに到着（sorae 宇宙へのポータルサイト）
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE9wQzNFR1pwUTZOQmpTMUdlamp1MjFxMGx1b0NoblExSjZVSWcwVWxoM0VxNDI0OVVGMGczUF91N2dna1Q4XzdsWmczOE5Sc1BZdWM5emNzczdJOEIwWlRUb0RELUxZOFNSaVJZUWNfZ0V5b3RyOEJUVF9Ld3l5cnc?oc=5
+■ ロケット・打ち上げ（17件）
+・スターシップフライト14の打ち上げが宇宙産業に新たな時代をもたらす
+  https://news.google.com/rss/articles/CBMiyANBVV95cUxNYm5Xb0R1enBYOGQxQk42VmpFeV9yc0R2ZGJyRFhMRWdaNGdpZHVhTmRzWGxhamJhc2UyZXJnbzZFVWdDaGYzQzZSVnRYQzBjV29GSTM2YUxkcEV2WE5RRkFyMzhzMEJDbi1SQXhTVFN4VWU0V0liWHZwYl9lb2pUck5KQU80bVNkc096M0Q0ZGVadTdvV2F2UzVMQ1NBMTFMRTh2aUdnSV9mckU5em1JajBiS0QtQ25MMjQ0VDl1cFBXQkxCdjh0Q3FZVnNSd0ZsYmRycjA1ZEV0NHFSZVJHY05QMFRGU1lPZTRNN0JaV2k2aFd5OC0yZ18xeXpIcHpmYmlLeVVONDR4TE4tbW9NOVd2ZWpXaVNxd244VllrRXZQc3JhQWduS3pFbkVOOUpFdUUyNjdoYzFZLTZhT0hPZ1N2THdyWDFmRFhCdHo5ajFJMW1DQ19jUmMyMzliS2lfZmtZelVvR3p2RmQ2NmE3ZFplS2NWSUk2VWlDek1KX2l4U3ptbWNfcVpPaXF2eGh3elZSYnJZZk5oQ3lFZVJ5WVFBM0JCczI1M09UbEtwVGJuZnhPZU5oN3FPbTBfRTNkbG9DSlVXRzE?oc=5
+・ミサイル発射に立ち会う金正恩氏
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFbE1IWi05MXB6VVNsdU96MmF4Z2JGTU50MUNvOEFVb2lXalpxeEpWek1LMEZhLTJaUU9uMFZUaEo2SFhhQ2hDMjY3RWVDeGs0aFhMRjdwQTA?oc=5
+・【カイロス打ち上げ約3分で飛行中断】「“カルロス”爆発したん？」と地元のお年寄り『カイロス2号機』打ち上がった約3分後に飛行中カイロス打ち上げ約3分で飛行中断断措置〈カンテレNEWS〉 Pluto Tv (XsExohDo6X)
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUI4eGU3cFFPenIyaGhHNUgtSzlWTGIyb1FLVVV5a3JFMXJfNUtreGp1VDVDRFoxLW5wd29CaUNfclkwTEdPZHhIWDFnSXN4elg4a3EyQW9HcHBQVzdpZUlBcHNaZDNDVm5UYVNaRUJ3M3dIMkNaYmx4czFnNkw3VGt3?oc=5
+・＜画像5 / 6＞一般の人でも食べられる！JAXAの食堂で見つけたキュートなロケットカレー
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE9GU0w5MXp4Z2Y0aWRrNXNLWWNPMC1Nb2tYVkJOVHNETXhDVGxJdnlDTlplU0VIdU9FdU9nRXJpYVBhOFRoalI2OEEtWnFLUTZTVlRWZFpKREZTdUFBbV9NQkFjZS1hNFdlLWxaLTd2Y1lPVkhwSEdtVmlPbw?oc=5
+・SpaceXが同じ日に打ち上げた3便の行き先 ～Crew-13・Transporter-18・NROL-97を振り返る～
+  https://news.google.com/rss/articles/CBMiO0FVX3lxTE55Rm1LVEFleWRvMGNNVEdnTFE4M0RJeVpLMkhSMGpPOWpzNTNQM1otT1MwQ3U0bXZSUGp3?oc=5
+・宇都宮で「夢と科学」イベント JAXA講演やロケット打ち上げ体験
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iTGQ4QS1IamEzQVBNaUVpdXVSLXVBS2VVTFRocFg1dGxRa1o5ZzEwX3dQWTh2bW9fanpEbFNjWmR2WHdfSGhMNnF6UTFxX19zaHpnNmt3?oc=5
+・テスラとスペースXの株価急伸、納車台数が市場予想を超えたことに加えロケットの連続打ち上げ成功が好感、イーロン・マスクの資産が1日で610億ドル増加
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWcGVLZEVPbkRwei04bXBMTHd3djdtRFdzVTJJUmttNkx4S3dhcFMyZXdxQjZCVUdiT3B3Unhyano1UkxLSjRJWG96c1hVZzRZZnNDSGkxVXEtYVR6YmZ2ZGVyYno0aDQ?oc=5
+・【「カイロス2号機」】2日連続で打ち上げ中止 次回は3日後の18日を目指す Tucker Wetmore (lVYvpT0ss2)
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1yOEtNbDhtQS1wS0R4UkFvS3hwZXBOc2dyY3BlYnQ3bkdBalNZbkMzdURoSVE0VjJkSl9DcXlHWmpjMGZ3REc5emxwbExncDd3eDM4T2NEZWxBbkRwREJDNW9abWtlV1hPLUUtSw?oc=5
+・NASA有人ミッション「Crew-13」打ち上げ成功 7時間55分でISSに到着 (sorae 宇宙へのポータルサイト)
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEVDSGNoSEJUamVFNVhROXgwbmdRVFdmLTk3SlZrVENpdm8yTFNBdThCSlZQZTFqNllTYWl3MUZoRDFsQkdoZHgzbzdxQ2NYRWhRTjNHUWFHXzhrSm85UTFTVUF3c1NLMlhLNkxOa2R3M1VSUk9WenJfcGxzeHJaSkFfcWhLRjFfNEFZQnRB?oc=5
 ・NASA有人ミッション「Crew-13」打ち上げ成功 7時間55分でISSに到着
   https://sorae.info/ssn/20261003-crew-13.html
 ・ヒョンムVロケット打ち上げの貴重な画像。
   https://news.google.com/rss/articles/CBMieEFVX3lxTFBnYk10c09tVGp3eW11Y3c1dmM4N09Pa3ZYbmswYkVRWUhfOHFzR1VEUGJjcHc1NGFUXy04c3hQdVgwaUU3MjVMOTljSDJfWk9jUFVFc3ZaN1VRTVB2cmw2aWJFNXVBWTJGTzFHX2M4dlFTUTNXRHNhdQ?oc=5
 ・打上げの先を支えるMMXの初期運用と訓練 ～フォボ旅 第3回 5分まとめ～｜戸梶歩 宇宙開発エバンジェリスト
   https://news.google.com/rss/articles/CBMiO0FVX3lxTE01WnVsc2xqdHVCeHRJQnhmRVJkb3dGNXJPUmFKWE1GUFo3bHJaRi1LMWsxTjk3X2djTVRN?oc=5
+・ロケットラボ（RKLB）における史上最大規模の電子打ち上げ契約が、同社の投資ストーリーを一変させた
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNekliWHR1VXc2LW9DNmRQVmwwSlRsV0FJdkRpOEMwdC0xcnlLTXJfY3RKNHdaVHlULXNpQVNJWjRYRGRPN1p6d3E0Y1c0eWZqeGw2YmNNb1F4eXdFT0szd0FwbThxRGpHZ3NYdXZBVnBad20zdlJlWkpfeGxqMnYtN2p5OGR2dThIcnVfYjdhR3FEQnRpRll3OEFnOFVTZ9IBngFBVV95cUxNekliWHR1VXc2LW9DNmRQVmwwSlRsV0FJdkRpOEMwdC0xcnlLTXJfY3RKNHdaVHlULXNpQVNJWjRYRGRPN1p6d3E0Y1c0eWZqeGw2YmNNb1F4eXdFT0szd0FwbThxRGpHZ3NYdXZBVnBad20zdlJlWkpfeGxqMnYtN2p5OGR2dThIcnVfYjdhR3FEQnRpRll3OEFnOFVTZw?oc=5
+・宇都宮で「夢と科学」イベント JAXA講演やロケット打ち上げ体験（ニュース地図）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaWxScVZNRmU4eWUyZ2xwcTRXRWhzcUdkbndpQmlOS1d3MXFGRmg5Q2Z2ZmVVWHZldHBnZVpDcHl3YTJwb2I5Z1AyVzlOZEkxNG9tag?oc=5
 ・ロケット大爆発でも大成功 スペースXの大型宇宙船が初の地球周回軌道への投入成功 月や火星の有人飛行へ一歩前進
   https://news.google.com/rss/articles/CBMif0FVX3lxTFA4SUJYUjB1a0VRbnVhOW1mU0owZGRhNzUyUjkyblJidGwyajIwVVpuYldKMTFRemcxd0pXYUdoRk11Z2FwZ2NYUlVRXzlaR2ZHcWtHVUMxaFFodDU2bTlUN0EyTFZub0JnQXF5cXJMdjE1bTBsSXJ1NWtkR3dUM0E?oc=5
 ・US military ends long-running program to spot nuclear missile launches
   https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/
 ・米機密載せ、スペースXロケット宇宙へ
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmo1ZF9tM0x5WF9MVmdJUlNISVlfMGNRUFBMVU9Pemh4TW1RRFhlb0xhdGYzZkZndU9CTWpxTm9CYm5ycW00S2RyaWNvUy1ZZGRXX0FRdWNxWnRkU2FFMmdIRHZmNGtPX012QzZTSjhTQ0NpVjZiZ2Zmcm9VZ2ZvS3k0M0Z2anQx?oc=5
-・スペースX株が急騰、3連続打ち上げとAI契約が追い風に 執筆
-  https://news.google.com/rss/articles/CBMid0FVX3lxTFB6WC1LSEV4M0l5XzdtbGdrcTd3cGxPQzdaWk5NVmdRZ3FneUJBYlk1YTZpeWUxYTcwSXEyZ1N4RWRKZE4xblMwYXlrX0VQQVRodk1UX3M1ekFvT1FZMWdHXzU3RkhiSjdjLUo5UlQ1YTF2QmlBcktV?oc=5
-・Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract
-  https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/
-・ロケット発射に興味津々 岡谷市の長地小で講習会、ものづくりの魅力触れる
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE5acXpNU2tMMDVUVngtTVo4a2Q1cFZENFZHOWNjZFNBRkZXUVhGRHdKT3FZNzk4NVN1ZTVEWEUwcFYwWjhGUnNQdDZBcTFBTGtqSmFkMEdxQ2FBSUtGTU13X0M2aHdwc2tDb2tVNFJMZTc?oc=5
-・民間ロケット・カイロス3号機 来年2/25打ち上げで調整 和歌山県串本町 Playstation 5 (lWL6jAFwE2)
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUtwU3ZJTXVWMUt6aHN0SlE1V3F6NTBLTXRtQkk2X1ZoV0lJTS1TM2pYb3Q2WDJjVlBCWGZKN3lHMWJQVUdXRTZsbnY3UE1SWjh2M2Rqcks0NGtHc0tJbGhWSl9WemM1LVhJV1NBcFJscDJQT3dXSlNzMmtMdXVRckVB?oc=5
-・スペースX、ライドシェアミッション「Transporter-18」の打ち上げを実施 130のペイロードを軌道投入
-  https://sorae.info/ssn/20261002-transporter-18.html
-・清水建設、ロケットエンジン燃焼試験場を和歌山・白浜で整備検討
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1waDRobWN4cV9lemtHamZ1alRmajE2cm9Wb2M0WEtIUTU2UEJrOUg1ekNMeEI1cFZGMl9OdTAxdFRQaFRhV0VTSnFwOHA2Z004bHhKWFJXQTJnMWZ6NFFsRTFvVkJnNndabUxqaw?oc=5
-・Jammertest pumps up the jam in Norway
-  https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway
-・ロケット燃焼試験場整備へ 清水建設、和歌山・白浜に
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9IRVc1V0RxcUQyMEIyeWRnQmFnaHRtdE9IVDl2S0NtYTJVV2ZyWDFQcTkwRkRnVTBKSnlWSTNhNWZscnNyamVqT3lJUV8xbUwwQ3M5TzB1U2R4OWh6QmV5TVdac3BKUTlwdktmTmZ1cnBtbkp40gF0QVVfeXFMT0hFVzVXRHFxRDIwQjJ5ZGdCYWdodG10T0hUOXZLQ21hMlVXZnJYMVBxOTBGRGdVMEpKeVZJM2E1Zmxyc3JqZWpPeUlRXzFtTDBDczlPMHVTZHg5aHpCZXlNV1pzcEpROXB2S2ZOZnVycG1uSng?oc=5
-・ロケット燃焼試験場整備へ 清水建設、和歌山・白浜に | | 全国のニュース
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RV2lQeGo3WjJMS3NqYlFwbmdONlNybURTd0h4ZUZHODZhVlU5YnE5Wm9nY2xXUlNlVklMTzVqVEE3YjlyR04tazgzWUZTZkc5SnFuU21n?oc=5
-・グーグルが独自開発した人工知能(AI)半導体を宇宙に打ち上げた。 地上データセンターが莫大な電力と敷地を必要とする中で、太陽エネルギーを活用して宇宙に大規模AIデータセンターを建てるという「プロジェク..
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xYWxSdk5mY29vdGhGMTVERktoXzF6QmlncTV1Rm5DQlFUTHhrMjV4RnRZM21kT05UVks3eXVENnVxYUJSdGYxNWZ0aw?oc=5
-・静電気で通信異常発生か 和歌山民間ロケット３号機
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE1ycDhfWDNfRks2MWNrRnI0Y0FNaHJnUXlIRGpLYlZMLXJKdVdLQmVnbnZkSUpDMTk3dUQzQWVlRWVZZHlkdENZMF9DRTdqSFFRWXF5TFFyUVlHekg1X3RPNkswRkR4c3JLcF93YllMZw?oc=5
-・ペットボトルロケットを持つ小川さん1
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QTnJIX1dadDhCWXZLd0RKc0VsZ2x1czM3ZDZ0cXlkMUlRdWptVzNteWNTbEN1dTNRUU9JOTdVdTlfMk9mNzRKYlRmaWpNZ2hCVTFlQi1SeXNSQQ?oc=5
-・宇都宮で「夢と科学」イベント JAXA講演やロケット打ち上げ体験（みんなの経済新聞ネットワーク）
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE0zU0QwZF9KLWMzT29xNjkwN3hmR3pvd1NVTWRQQUNVbmFfNk9mMWdBbmZlSDZQWDNGc3FiSjNOcFdIY1pQNEM3T3ZDZWxrWkprbDV6OFFHS3JJSlRjdTcySVRJZk4zWEUtRkFCMWRJR1VheXVjajlOU1dCLWlFT0U?oc=5
-・グーグル宇宙データセンター実証開始 TPU搭載衛星をSpaceXで打ち上げ - CHOSUNBIZ
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDM5WVlUUTZ4MW50T1NzMDFlbEhac3dFRXdEaUc3TE5rSzF3Ul9WVV9aWkkwaEgtQ19MTnpTZkdRdDJjSWxDbmlqVmZWTS1ER01zQ2xIYjI2cE9ieGtZOUFqZFBrUW5vaXU2Q2hybGw0bndxbnctMWQ4QVdPSmh6X1U2Y1htSi1hVTB0RGFR0gGOAUFVX3lxTE9IMzlZWVRRNngxbnRPU3MwMWVsSFpzd0VFd0RpRzdMTmtLMXdSX1ZVX1paSTBoSC1DX0xOelNmR1F0MmNJbENuaWpWZlZNLURHTXNDbEhiMjZwT2J4a1k5QWpkUGtRbm9pdTZDaHJsbDRud3Fudy0xZDhBV09KaHpfVTZjWG1KLWFVMHREYVE?oc=5
-・カナダ、外国製依存脱却へ国産ロケット育成を加速
-  https://news.google.com/rss/articles/CBMixgFBVV95cUxNMlp6M0ZsYTBDbjZxVzJlUXBuTjl2WXpJLW5xNG9FNEhvQ3BMOUxuX1JKQUFianl1d2lqQ1hEcUlFNXlLODZlRHpXRkZYRmtQdkxrbk5HOW9TZHRzaEdCR3hLdlBvM1dMRWFBUU91T2VVTlQ2Nm45SERpLVVsbm5IX1RXU2oyLUdWMVNncm9rUXpmZzM1R1AxZXBpX1FfX3ZwTUVBaEFORG5ZLWllY1BDTU9yNFRKWl9LRzl0U05xNXpfWm1jeUE?oc=5
-・Synspective、米Rocket Lab社と20機の衛星打上げ契約を締結
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1lQ1pWSnBjWlBPTVdMaDh3TEtuMzQ1Q2dTTm9oUUdOZkVhWTlsdlgwb0w5UmFWV0dMMVAwcVJvbnpITmdjMThfOUhRZVRKdUhHRmY0cXp1NTlBR2tXN0N4TXFNOUtzblZETy0ycFJ2dlFzQQ?oc=5
-・Falcon Heavy flies its first mission for U.S. spy satellite agency
-  https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/
-・SpaceX describes surgical intervention before launch of latest crew mission
-  https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/
-・Google、AI半導体載せた人工衛星を発射 宇宙データセンターへ布石
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUTBVWjBRSTZQWUlXSmZvNmdXbDB0WHFHLTRtVFhScGpnSHJYcGlNMXd1SUFpZk5nQWVYY2NFSl9mZ1YteDJ6YmsyYmpUYkpnYVJ0eGZmcHBOc1RaSU9UeWd3SmFkVU5OZlFhZA?oc=5
-・ロケット・ラボが上昇 アナリストが目標株価１０５ドルで新規カバレッジ開始＝米国株個別
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jX1gwYkVIZFl4R2oxRi1kZFNQdExaU0M4WXZMTlMyZEM1OGJyNW1vRFpsejR1aUJBanRsX1ZFMXVQNnZ6RU9QZW9FWFZsZ0E5ekxmRE9jZHVuQ0o3UXBvN0dR?oc=5
-・【「カイロス2号機」】2日連続で打ち上げ中止 次回は3日後の18日を目指す Tucker Wetmore (lVYvpT0ss2)
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOdV9pRXlxRTY2ZVl4R3U2Um9mYlFIYks1anloaXZoRXp3NWZ4b3ROZjhfX0VOSVlKUTNEMTRoYzNLNnNKNGZ4NWZJcXZadE5sakhfRUJuNEktSjU3OVhFa2lwMi14a1NTajJQMDUyOXg0OVFweURfQ2htenhZRmtRdG95dlkweDQ?oc=5
-・Launch preview: More than 100 spacecraft hitch a ride to orbit on SpaceX’s Transporter-18
-  https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/
-・スペースＸ、ＩＳＳへ宇宙船打ち上げ 米ロなど宇宙飛行士4人搭乗
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbTF3S0xwWlJPY3VKOURuUlJhY1pCeFVZVUxvRHdSQ0tzNldpWDhRYWdpRDZSX3FTVGpqMnZkb3VtSzB5YUhoTy1PcFZ6ZXBQUmppQmE5MUgwUGx4cDktMHl2Rk01cG84RTEzdE81SkVtNGhZT0hzdWZMYmk5TFE?oc=5
-・スペースＸ、ＩＳＳへ宇宙船打ち上げ 米ロなど宇宙飛行士4人搭乗（ロイター）
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE56eWt0X1ZONG1LaGxWc19oU2xoS3l2UWlhV213OC1NR3pyOWxoUW9VR1FMekdpd0FUNW9fX2IwaHFqLUtQZzhHdmd1UG02bHJaTTZCZTZQd1Fyd2ZzZFNjWHVKWExNZlRCYVhORmJrZ28xZFpaM1A3UElsU2U0WDg?oc=5
-・ロケット・ラボ、シンスペクティブと20回の打ち上げ契約を締結——シティが「買い」でカバレッジ開始、上昇余地50%
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRVlkdWVUSGF4YkRKUGNZRjVPVVcyS3UtaHcweFlBZWE1dWpNVlgxY1lzMnozdjlsVXM0ejlTSXRVRW1zYTZyZjBKZU9SWjVuOFlFbXdReUVSRkg4a3JwMlJRdVdxZHY3bl96Ukc2R3M3NV9k?oc=5
-・As US relations fray, Canada gets serious about its own launch industry
-  https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/
-・＜画像1 / 6＞一般の人でも食べられる！JAXAの食堂で見つけたキュートなロケットカレー
-  https://news.google.com/rss/articles/CBMie0FVX3lxTFA3QjgzZDVlX1dIZUNVYmp3M0dPQkw0ckx4akcxYnlqZmlmZjJ0SWFUUjVyajU4NXlPRUdsclFQN0I3ZUJXYW9rZE9hWVl5c2o1aUxhS1c3NVR5Z1pnWVJaMktsbXItamFWZDc4d0VFMXhzQ0dyMzM1ZjhOSQ?oc=5
-・World Space Week 2026 Celebrates the “Rocket Revolution”
-  https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/
-・Juice’s September 2026 Earth flyby: the movie
-  https://www.esa.int/ESA_Multimedia/Videos/2026/10/Juice_s_September_2026_Earth_flyby_the_movie
 
-■ 衛星・通信（7件）
-・【空の軌跡 the 2nd】人工衛星とか、いつ頃作ったんですか？ #23（現在：７章）
-  https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BQ0NuU1Y3VEhPcHdYZWlFa25RcTg1cm52WWxGSEhmcGtQQVNyNXMzZWR3U1M5amo1dlA0YlVkWUNadw?oc=5
-・福井大、セーレンが包括連携協定を締結 地域産業革新へ基盤、人工衛星分野などで協力強化
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ybk00VkZGbGlPSzBheURYc28zZWJ4T0FFMTI3V1FyNW50YUFuTklnQWg1NTY5TUZpYm5senJiakw2bWtENGFwYjNKQldSbUxicU1aM0NXQmxpOTdMNkE?oc=5
-・Earth from Space: Typhoon Surigae
-  https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae
-・欧中の科学衛星「Smile」が科学観測開始へ 紫外線で捉えたオーロラの映像をESAが公開
-  https://sorae.info/space/20261002-smile.html
-・ノキアはICEYEと提携し、衛星通信システムを展開する。
-  https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHZ5Sktqem14UU96WWI4SFcxcC1xNEM4Y2Z4THVuRFp6b3hLLWJYaUlveVJyeWNLVnlTa210aTJxQXRjRVdXY3V6R2lOVVl1bEpJdmU2X294VUxLcjFCTUhfR1R3QWpFSHowbnJGallrV0pWOU8wLU5lTnJRSG0tVUpDeU9NU3lmT0VwRWxmdzRJNkFJQ0NnbXFxYjZENkxvWElrRzh3NjZTT2lzR2FBZ1JWdDlEd0hoalE1WmpB?oc=5
-・《「こんごう」乗艦レポート》 リムパック2026 #11 イージス艦から見る星々と人工衛星の恩恵
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ld0dxQ1VaSHlsdmt1YzRqQXAyWkRQY2c3Q3N6bVFCa19uT3ctYWlzOWdLaWxweUZpSU9INm1tSnZEWHBXWWxGZDhkbmVfQ1hZcE5pemJ1aEtlbGJVa05JSXl3?oc=5
-・人工衛星でイルカ行動調査
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9YektmSjlHVVVBN1hEMk93SVJMZW1sMnM2NzZYMS1SUHFsNVpDWk8yM1RDLWlkM19aQjJuOExZUWYtQ0ZKb0VWaGg5bDdXY1U3MG1yRUtza2g1V2tROWF5SEdhTHh3bkpGbmMtQQ?oc=5
+■ 衛星・通信（4件）
+・熊本県天草市沖に生息するイルカ＝1日午前 - 人工衛星でイルカ行動調査 三菱UFJと熊本県天草市 - 写真・画像(1/1)
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXphQzdSMU93bkVkMy1KM1J0WmhObXJjbEVRU2VUVjBzd3pIcWJFRmlMOUpjdl82OFdNWkFNeHZRbGQyeExRSkJNUXpKYlJoYXFfc29LSQ?oc=5
+・時速2万7000kmの衛星を撃墜した“伝説”のイージス艦 33年の歴史に幕 世界で初めて海上で弾道ミサイルを迎撃した艦でもある!?
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXNiTVEtcVc5YVBpZVVpcUVWT1dLM21yY254QjA0NG1vV3hXV2J0UnJIMHY1NUs3WDd2bGRKWjQ0MFRvTG5hRnhaQWRZQzBqMnU3ZkFaVjN3U2Z6S3dQejRrM3JDOHQ4d0FTZVJGVzA5ZDQ1UWdSTnAtUHA0cWhMUnZrVVRsLUHSAYcBQVVfeXFMT2FzYk1RLXFXOWFQaWVVaXFFVk9XSzNtcmNueEIwNDRtb1d4V1didFJySDB2NTVLN1g3dmxkSlo0NDBUb0xuYUZ4WkFkWUMwajJ1N2ZBWlYzd1Nmekt3UHo0azNyQzh0OHdBU2VSRlcwOWQ0NVFnUk5wLVBwNHFoTFJ2a1VUbC1B?oc=5
+・【1957（昭和32）年10月4日】ソ連が人工衛星、西側にショック
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFByWG9COGxtUkhPX2dlcklwU3Uxd3E0OUlpb19XdG1ENHBPSlJ6WlRiZ1BDY0dMUWJBNGVrd19udVBRWkN0QzJOemFQbzk1MGR4TUdmZ19pRVpkUzcxa0Y4WA?oc=5
+・アラブ首長国連邦は、国内で製造された初の商用衛星を軌道に投入することに成功した。
+  https://news.google.com/rss/articles/CBMingFBVV95cUxPeHdQeXNNdkRNeHFTZ1hjY3laYU51OWprN0ZGaDBXcWlzamNib0tzcmcwZEY5c3dobXVRTXhLZmQ1R2NiYkJQY29XTGZVOTY1MXhjbXlhbHZqQkpIZUJ6R3lqOVhaVTY3d2I0aktaSkpYSm1wUmJ4UlEtdkF6OWFLeTVuQjR6ODZDSlhPYy1SQkdTU09NemtLUGQtcG5qZw?oc=5
 
-■ 探査・科学（12件）
+■ 探査・科学（7件）
+・津南醸造、「GOOD LIFE フェア 2026」でスペースノーム研究所と宇宙開発協同組合SOHLAのブースに協力出展。「GO GRANDCLASS」「GO LUNAR」を紹介、月面酒蔵の構想を伝える
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1mWG5EWk9sTlY4Nm5YSTdxa0x6WFRVMTVVelFKZGFYQ0ZpQVVVZkdKSGY5a2hRXy10RDFZUW5pMi04UmRkWG9nQkpBZVRFUHQzeU1uLVJXOURTcGxSekU0bkloVXFVdE9TR1YxeHNzV2doSjNWNjJ3SXBB?oc=5
+・渦巻銀河か楕円銀河か ハッブル宇宙望遠鏡が観測した「ソンブレロ銀河」
+  https://sorae.info/astronomy/20261003-sombrero-galaxy.html
+・【松江高専・大島商船高専】浦川准教授、末次准教授、JAXA小惑星探査機「はやぶさ2」のフライバイ探査で二つの世界初に貢献
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ITWx3M1FpbmFsTTV2bmJtRTRZQ2xwcWM0ZklaaHpCd1hERW9yMVNlMVd5T0UxVl9ldFZOb3Q5dFVuQmJrTlVoazNiem1MbTlNc0E?oc=5
 ・日本の探査機「はやぶさ2」最後のイオンエンジンが故障 JAXAは部品組み合わせで延命
   https://news.google.com/rss/articles/CBMidEFVX3lxTFAwYkE0eG1yUWVQWGdzVktOeFE5QmoyUjRoOHZhbmRHSWZhV3dKT3dqdVhNTkMwS0VCLWt4Y0M4M0c1X3FxLTN0LUNPNzFZcDN4amJlWXNhV0dWemtUMG1xU2U5Z1AzZ1VWTFdGMUprT2drT2Vl?oc=5
 ・協力プレイ対応・工場自動化×宇宙開発SFシム『Main Sequence』日本語対応で11月12日早期アクセス開始―現在体験版配信中
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pYURIbzkxRXNsaXhuUzh1dXdGUDZDVk9KS1BuRVJ1NFRuSlFuUF9nNkppeDdVeWVuLXdXNi1PRmtwVjNsdlVlRzJMdHVtTUFzdHFlTVJjU2M0UEpFZjYtMUtObUlPZw?oc=5
-・「最速！「プロマネ」仕事術」と題して、トライズ株式会社 代表取締役社長（ソフトバンク 元社長室長） 三木 雄信氏によるセミナーを2026年11月4日(水)に開催!!
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5EazR0TW9jcHViNmNsOE9JeVJ3cXF4bG54MmtwZTVQWjh4N1VmaExJOE0tVjA1eXprRlpPWF9lWmlZMjVuUlgwZWRBRTY0eW1uN3k3c0NVWXpOOEFlRUx0M0hseEJ6STNlVWV2SjduT3BIQQ?oc=5
 ・NASA’s DAVINCI Probe Can Stand the Heat
   https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/
 ・NASA Opens Applications for Next Class of Flight Directors
   https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/
-・巨大なブラックホールのすぐ近くにある超新星残骸「いて座Aイースト」 チャンドラなどが観測
-  https://sorae.info/astronomy/20261002-sgr-a-east.html
-・【一般学生向けお知らせ・参加無料】11/15(日)開催 宇宙飛行士・野口聡一先生と宇宙・地球探査の第一人者が語る 講演会・パネルトーク | 東京キャンパス | 学校法人 立命館
-  https://news.google.com/rss/articles/CBMickFVX3lxTE5jb2Y5Q0x1NFF5cEpNMTB6RzJKblBOS2RGM2pLejhTLWRaWkJUbzdWVTRmcERjRjAtNUFwaEJxSFdzRDM3T280WDc5dlhsbVpPTzg2V2lwbktXQl9wRkJLeUUxTy1NVkw5NFBNdWxuR1lxdw?oc=5
-・久留米工業大学でリアルな宇宙の話を聴こう。公開講座「月面探査と基地建設に向けての宇宙開発」10/11開催
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iT1RVUjRCRVp6TTNfMDVyOTBvV0VtZFEyaFR4azE1YUxCeWZYSWpJczJjbURUMWh6SzhyWEhDRVM5aUxLMHBJM3lWZlFvOHJ1LURXRXJyRXlodw?oc=5
-・写真：久留米工業大学でリアルな宇宙の話を聴こう。公開講座「月面探査と基地建設に向けての宇宙開発」10/11開催
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qSHhUckM2b2htVDZEa2NYZU9xa0tta2JmTWxzblk4dG1hZWRYMmxValBFMjFWd0Y0c3gyRjdsNUJPb2JWX3M2ZFNxSlNraTZPem81bFNsYWVSWTg5dkZMa1pLVjJldw?oc=5
-・ＯＤＡ・宇宙対象に＝行革「秋のレビュー」来月開催
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE1LNEg1cF9wbldwUzZheEwzVVY1cHZveFlONTdPaHB0ZFhtb1RseWRQRlh4V1JNT2d5TVJDdENDOVBrOHJVRkloTEVyaUdKSENoMFl0SUpHVVhnUjdpanNsMl9aQXd3WkVGRnB30gFrQVVfeXFMTUs0SDVwX3BuV3BTNmF4TDNVVjVwdm94WU41N09ocHRkWG1vVGx5ZFBGWHhXUk1PZ3lNUkN0Q0M5UGs4clVGSWhMRXJpR0pIQ2gwWXRJSkdVWGdSN2lqc2wyX1pBd3daRUZGcHc?oc=5
-・「ブレインテックの事業機会と参入戦略」と題して、KPMGコンサルティング株式会社 Cross Innovation部 松原 孝将氏によるセミナーを2026年11月12日(木)に開催!!
-  https://news.google.com/rss/articles/CBMickFVX3lxTFAxUmVhLWNpV3BLWTRicHZEbmRySldpYlo2ZzFwbkp5Ty03d004VVNtVG9SaDlOZ19YZWR0Vm92ZnFPRmN3NVdVQzBMTVFuMWlSRW5QTUpYU3V2eHRaRTlFd3RoODI5TTNGTTdaMWxmNm1ZQQ?oc=5
-・「生成AIプリンシプル・コードへの実務対応」と題して、森・濱田松本法律事務所 外国法共同事業 パートナー弁護士 岡田 淳氏によるセミナーを2026年10月27日(火)に開催!!
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1zZWZGNGZCWnFybkc2M0NEXzhGUlZaTGJBdWJvSlJjNmhEMFprQUZ1ODdCWmJMUTlidVZybGRCUnp4ZTFJSzBLWm1yNjN3bnJXaHB4NWtlUFRSTHE5ZDRoM3djcDk3d3N6MnA5OGlpeHVtQQ?oc=5
 
-■ 有人・宇宙ステーション（17件）
+■ 有人・宇宙ステーション（8件）
+・APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey
+  https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/
+・トルコ共和国で開催される世界最大の国際宇宙会議「International Astronautical Congress （IAC）」JAXAブースに山口県航空宇宙クラスター（株）ひびき精機が出展
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XQllHNlBpX3VSSkw1TG9DWjJaeFVXekUxcDB5N3BEbVFuaFAzdjBQaW83cVpLcTlXRkktZkdWLU1nVl90TDZpdEhnUVN0c1lZeUE?oc=5
 ・APOD: 2026 October 3 – Selfie at Vera Rubin Ridge
   https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/
+・北京でパキスタン人宇宙飛行士候補が訓練中、実現すれば中国初の外国人―海外メディア
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5raGVXdk5GZTNfSm5ud0tnYmdpNnlVTVBzOFZnVUVyOWlfVTdKSmNPQ1JMa19UTTJnRllMUS1STGZIVVBzSmotTDgyaDRpZFhNeHB4a0gtSVJnWnZ2MW4xQl9tYmQwamRYaXc?oc=5
 ・JAXA宇宙飛行士･金井宣茂さん講演会「宇宙へつなぐ 上越の未来へのバトン」
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1saDJHdHJOdUxaQ0cwR1lobTI3YU1uMHRrYVk1UTdnVm5mazdGX3BXajBOcEJNbG9HNVdxdlRyUW9xY3M5YVFEbDNHNnZRU1JCM2NYY1RGaEhTR0E?oc=5
 ・＜画像3 / 5＞宇宙服のプレゼントも！ JAXA宇宙飛行士と仙台たなばたを楽しもう
@@ -131,79 +83,69 @@
   https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/
 ・Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission
   https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/
-・Beyond the airlock - Sophie Adenot's three spacewalks
-  https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks
-・クルードラゴン宇宙船運用13号機（Crew-13）ミッション
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE5uR3RhSENfUk5Gdk8tVVB1Z3JrMDNnU0lNX3JIdFNJekxiWnBFc0phVlhwOHdiZGQ4aXBjT0ltUnRGTXZiNFB0bXVPMWYtWUFjZnZ0UmlXMFVUZVlfYzl4VUZfU2xuZkR6cUJnYnVCWQ?oc=5
-・HTV-Xプロジェクトチームが令和8年度 日本航空協会表彰「航空特別賞」を受賞
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iYW1xenAydmY2TEdPQWMzMnE0dUFTSUF2aGxwbU5HT2pydGlTdWpzUVZGZ1JfTVE0a1dLOEU4aFZKVENna0FJTE42VGhkZ3JERm9PVURpN3JDTXF0cnQ4NzhwOHQ5dw?oc=5
-・クルードラゴン、ISSへ8時間で到着し米最速記録を樹立 黒人女性初の飛行士ら4人搭乗
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxPWER4R1liYV9IRUhCV0EyNENhbHcyOWYtM0YyeGpnMEtreXBkVU1vTkEtenpFUWNBNmUtSmZmQVpVNGt4Q1hCM3kxYkNtZzZlRWhzSTJPQm03SUU1MDYzRmtvVkpqbnEyQXNHcFZROXExY3RyZ1ExMlBVNEhVUHRqNWUyancwTTFvWWFLeFFHeTBuOEHSAZMBQVVfeXFMT1hEeEdZYmFfSEVIQldBMjRDYWx3MjlmLTNGMnhqZzBLa3lwZFVNb05BLXp6RVFjQTZlLUpmZkFaVTRreENYQjN5MWJDbWc2ZUVoc0kyT0JtN0lFNTA2M0Zrb1ZKam5xMkFzR3BWUTlxMWN0cmdRMTJQVTRIVVB0ajVlMmp3ME0xb1lhS3hRR3kwbjhB?oc=5
-・JAXA宇宙飛行士が上越へ！ 金井宣茂さん講演会「宇宙へつなぐ 上越の未来へのバトン」開催
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NbXRzcmtMQnpIZTVvNmxIell0OV9fR3p3c1JIT0x5bGZ6R3NFNG43cXZmUWktdUEyc3JJTHAzUnBNc3l4aUQ2NWdsY3FObW94aWV0ZWRYLVdyOEVZSWc?oc=5
-・【画像】宇宙ステーションのロッカーがレンタルできる!?「SPACETIDE 2026」で見つけた、より身近になる「民間宇宙ビジネス」の今 1/4 - Peachy（ピーチィ） - ライブドアニュース
-  https://news.google.com/rss/articles/CBMifEFVX3lxTFB2aFUxQW16TTRCRjQxNUREaVAzbWl6RDdFYmZmVWJRSHJfclFLXy1QR1pzWTdjMFY2UmdzRUdNZ3REaG1MZXlmeTNGNzBLZzdTNWN0MGp6ejFxNV9KZ190d0xMNTc0NWc2ZXVoX2kxaGQtd2NvbEhfbDVoUnk?oc=5
-・宇宙ステーションのロッカーがレンタルできる!?「SPACETIDE 2026」で見つけた、より身近になる「民間宇宙ビジネス」の今
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1feGlIM0QtbldfLUdOdTBWZEpUdW1OTWZDMDVFWWpEZXdfQkx1bTFoaFFnb3o5bVZRdXBLbGdUMTk3S2xYS3F4bWRXb0RzQUhJTnFMQk0yLWhZTjFEd0piaEhFWHJGbUozQ0c5SUtYS3BKaTBVMUZnXzJqRXpuWm8?oc=5
-・トルコ共和国で開催される世界最大の国際宇宙会議「International Astronautical Congress （IAC）」JAXAブースに山口県航空宇宙クラスター（株）ひびき精機が出展
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XQllHNlBpX3VSSkw1TG9DWjJaeFVXekUxcDB5N3BEbVFuaFAzdjBQaW83cVpLcTlXRkktZkdWLU1nVl90TDZpdEhnUVN0c1lZeUE?oc=5
-・JAXA 大西宇宙飛行士ミッション報告会 ＆ Spaceport Fes in KUNISAKIを開催します！
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE8wRG1uNmdQRnhNb0FiME5RQ2hnX1lhN3ZoazNZaHpSRjdHeE83cWQtNHA1eWotN1B0bFlQcC1jVy1nSzYwSzZZTXdmU2hGb0xRcnhiLVlmcXlESExxVHpMalQzVVNoVFQxQzh1d1d2bVpEV1JvbHVDRUZKVW4?oc=5
-・10 Things: Movie Night
-  https://science.nasa.gov/solar-system/10-things-movie-night/
-・画像3 / 4＞宇宙ステーションのロッカーがレンタルできる!?「SPACETIDE 2026」で見つけた、より身近になる「民間宇宙ビジネス」の今
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE0wVEI1T0VKY1JfaWtDdFFvTXh6bXpycjZKWUpkZUhpLTNlVUxKZDM4NkMwOTUzbzRyd1FFZFJvM2ZIazVWS2FBZzdCSmp3aEcwN3pNZUJfanVsR0FiTDNROTZVaE11eHZaUnVVWUNR?oc=5
-・Fresh crew takes off for six-month stay aboard space station
-  https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/
 
-■ 企業・投資（2件）
+■ 企業・投資（3件）
+・iFreeNEXT スペース・テック株インデックス【04311267】：基準価格・投資信託情報
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wekNkT2ZwdVdSVGoyN2Zma2JDdTRJVkZ1Qm5HYm10cU10bkpsd2hjcldxaGZHcV8waE5haFRFQmdOTFE3U0ppY242ZHBUakgxdnpsTg?oc=5
+・東京海上･宇宙関連株式ファンド(為替ヘッジなし)【49311189】：基準価格・投資信託情報
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nM1RKRURfQk5lNkRseTViaG1CQkphMjV4ZHJrZlg4QVQyV1VDdTJ2S2NOeThsUFFZQWpkckZvRWxBWVBsdllNRWRlT1VJOFNIaVRmYg?oc=5
 ・株式会社BULL、文部科学省SBIRフェーズ3事業における追加資金2.6億円の配分が決定
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1zUmd1cFZxSWpvZDZtRkVWTDItei05RkYxamZlQmg0dnY2bnZ2a1E3M2JmNUtaUkxrNFloM0FJUTRzNlBvZGNCXzFTZHB3V1dSM3ZqODIxUE1lUlFJQXFTUlA2c2w1YzZVdkE?oc=5
-・スペースXの宇宙AIデータセンターで採用される可能性がある日本の新素材やパワー半導体リスト。詳細は宇宙ビジネスセミナーで：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wX0swdGM0T284VFFob2U0a0JiYlQwcVRxVzE4bXRiQVNyS1hYdTZVVXMtSk95TTMzMlB4cmNDZ3ViYTZSYmxnRTZBTmUydTRmcURmWF9jTVdTbjMtSW9RMQ?oc=5
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE1EQ3FxcXRpRlUxanJoVXJaOFRRd0FKWk9idGo2RWs4d0gyMlpYaVZYS1FIS2s5TXVlMDlrR2RpOFhQVVhCb3FPZGlnYWpxaEc5SjBnLURZSWx2aUxHWllpUjdKQm0xY3VSYUtUVWNVYkVUMDhfLW5yTlF4WQ?oc=5
 
-■ その他（21件）
+■ その他（27件）
+・第２２回テーマ：世界中で競うように開発が進められているインフラの新たなステージ！「暮らしを変える宇宙インフラ」
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LOGNRcTdoOGlwWHM3RkFiYTRzclFHakxfUF8teVV2NUlZSmFwa2lPNkRud2JEVzZyU25seWFjVUZWQnY2Z2lJTDNobw?oc=5
+・GX 宇宙テック・トップ10(除く日本)【610A】：株価・株式情報（夜間PTS含む）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNG9hcGp4bzFfRjE1T2hIams2bGItUjExUTZGT2RDU203MDN1MTVYTkt5aXFjQ18yNHdKN2k2LXpYV01lUGlrYTB4NHVpNW80cVE?oc=5
+・CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNHZjZ1Z5a1h2cmFmTVhBNkQ5SnpodUpaNU8yRXZUcEJsQzc5b3VYbmFneDhWRFpoYl9TOGF1ZUNsUTY0V0JXOW5rQW9UcTA?oc=5
+・レーザー溶接シーム追跡システムの世界市場（2026年～2032年）、市場規模（全自動追跡システム、半自動追跡システム）・分析レポートを発表
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CRFdBWE5fNjA4SUZRb3YzUFhpREJsMlVUakZBU3BTeHZ1RlZvbTFJV0pZaTY5cDNBajQ1RXI2S09OeHp3bjEtVlBiVlhjRDg?oc=5
+・来週（10/5～10/9）の日経平均株価の予想レンジは6万7000～7万円！“7万円回復”が期待されるが、過熱感が警戒される水準なので、押し目狙いのスタンスで
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucnd2SnB4cnZBZTdVV3l6bU5IM0h5V0tVLTRhRmRRVHozUjFyQ0JEZlFqa1ZuN1ZHZ2F5Tk84RVBucTBWUFNNbEh1NS1qcUUwcU5Z?oc=5
+・OptQC、国際会議「ASEAN Semiconductor Forum 2026」に登壇
+  https://news.google.com/rss/articles/CBMickFVX3lxTE52ZzAzZGlKLUNrZEd6U0NhdkJENll0cmZDYTVxVXJkTkJibTJsNFFiV1NmTGgtbEhPX0MtUjhFdEJIRHZaeU9YRHJJRXF6YVl2SkI2X2NmTm1sWkdXODlaYmhPbmdkOEdaenNkVHFwWFphQQ?oc=5
+・(株)ｉｓｐａｃｅ【9348】：株価・株式情報（夜間PTS含む）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE43dUNHVFNvSHE3Mjd4RWJPU1AtZzhxX291LU83RlI2MTVhQ3N3N3Vkd3NVLWxLUXJoZzlMZVlpejZORzN4ejRlajVLcHBVYnRUWlE?oc=5
+・Code and DESIGN、ニワトリ1羽から壮大な帝国を築き上げる放置・インフレ経営ゲーム『たまご革命』iOS版をリリース
+  https://news.google.com/rss/articles/CBMiREFVX3lxTFA0a0xYMHBWWU1HblpZUTVVNmlUdlVNSjRMRHA3TFdfR1owS0pvdUFsNm41dlBhRS1kR1JNMmI1SFYyWWk4?oc=5
+・ロボットレーザーシステムの世界市場（2026年～2032年）、市場規模（ロボットレーザー溶接システム、ロボットレーザー洗浄システム、ロボットレーザー切断システム、ロボットレーザークラッディングシステム）・分析レポートを発表
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE15dlpWS3BMc2N0MjYydEZFTFdJTWFRazBRQVA3bU5UaVpfcEhtRnFQZ2trZHhITlcwOWN1Y2VqdXhFVWd1VkxuS0J0TFV1Tnc?oc=5
+・「街の発展が期待できる」 茨城県の“幸福度の高い街（自治体）”ランキング1位に「生活の質としてはかなり良い」「自然が多
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMEZicnZXeXUtQ1lCdkg3czRIbmdpd2Fyb2ItZlozR19KbjFrbWxJLVdrQjJPRHBRSUs0eHpqQVNOSjFUZS1TU20wT1hiTm9uYVN5TzdkQnpQdHJ2NUtLbFNLTU9jZjJ0WTAtdnBGTXJIY3EyYkNmcl9acmE?oc=5
+・夢を見せるだけじゃ嫌だった 「宇宙から農業変える」起業家の挑戦 [兵庫県]
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDXzg3LXR4M1JoUWtkZ0xmM2FkNGhsdG5IRjZPMTZjczdfaXFZQWlaM09xbnFGN2pyY3pDRG51SnVTNGhkLVJRc1BMa25hMFVJbXBaOTNBanlKdURmZXRLMzQyUG5maTA?oc=5
+・【太陽フレアを常時観測】「天文王国」岡山から宇宙災害に備える「全国でも珍しい太陽電波バースト観測専用のアンテナ設置」市街地から太陽電波観測に挑戦
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5SZU92UGQ5ck9LMDN0UC1CdTBNanI5YkpkYTBvVGZxTTZBVEJETjVRbnpTZ0N4a1hOdk1saVJ1SlFCT2l6blFMREJvT2xrVlFJTFlUZFBFSHdoVm52ZFFrVFQzWmxMMC1rWTdTVXpjUnFxdWpK0gF0QVVfeXFMTlJlT3ZQZDlyT0swM3RQLUJ1ME1qcjliSmRhMG9UZnFNNkFUQkRONVFuelNnQ3hrWE52TWxpUnVKUUJPaXpuUUxEQm9PbGtWUUlMWVRkUEVId2hWbnZkUWtUVDNabEwwLWtZN1NVemNScXF1ako?oc=5
+・Milt Windler, NASA flight director who helped save Apollo 13, dies at 94
+  https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/
+・低高度空間の利用、管理及び保護に関する政治局の結論
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxNRmY4SnNrNTRSb016cjZjQVZrTXg0cVFYTlM2SWJYQzFpRDZia2VNNi12c3BsX19jY1JHT0R2UlJOelVmUmRQMGpaWVZ6RXNyVVoteC1DYUo0LV9Rd1FNVmRHV05QQ3U1eEFuZGhsNlU1QnhLMFhKU2xrb2lHLUZXLW9XLS1qVm1pR3BuSTRWT2JsQWJNV1FWbjJ1UzZIU2xUYkExUTdR?oc=5
+・星空企画部☆座談会#34「星空を楽しいと思う瞬間」
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rMDMwT0w2TDRGVk52emRKbkY2aUthVHdfcU1oMGZyZVdIbHBaRGNkSE9iYzlhYlo1REFRQ3l2ZVc1aDF6cUFpcENja3BUQzVIdjVZeC10cGx3X3Bz?oc=5
+・低高度空間は国家資源であり、新たな開発の原動力となる。
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxPTktPaXN4VnFwMzdNMEF4RlY4WjBxVVFtd01aeHlfQ0NtWFlRR0xOd0dLZEQyRzVnWmxNTy0wdnlyT01fQ3dqQ1o2bEdwSkk0QXFmWXo2dU9pdWZBd2szTHlqSFFna0dReE9UcFVlZFh4ZUo5VGduRW14WHVPSHlyMUFuWTJVYzllS3BzVXJYTjdfMWJHb3FjRmhmVQ?oc=5
+・『スタートレック』放送開始から60年、AI時代にこそ学ぶ教訓
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oUVNZQk40MndtS3JSRzU0aGZhN09uVENITVFzQTJiOW1nenlXMktBVEpkeHk4YThPVjFFbHkzZ0NZaUhLSXhpZEJ3N01Gd09MY0l2RFJ2MXhOWXFpdGd5NnFR?oc=5
+・【長岡高専】「みちびき地域課題ハッカソン」最終発表会を開催
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE12dDNmb05vM1ZidDdWcnowcTNTamd4R0xpRUJPMUxLUGNxUklzQU5rRVFHMkd3SDZRMUZjSmtGdHdVcEtjTnA0RlBNRzBnbUdab2JDeE1JNzVhOThGR0MxdDdtVURsS2Ru?oc=5
+・全ファイバー・リオット脱偏光器の世界市場（2026年～2032年）、市場規模（高デスキュー型、低デスキュー型）・分析レポートを発表
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHOEdPZGxPUFpzMlhnTkFJNFVkSWVUX3F4QUFUMUswa3NjSDVZbFJKTzloY1NvSURuUW81N0FIUC1WYWtXeF9STjhEd1Mwb0U?oc=5
+・将来宇宙輸送システム、元IHIエアロスペース技師長の大塚浩仁氏がCTOに、 元JAXA監事の三宅正純氏が常勤監査役に就任
+  https://news.google.com/rss/articles/CBMickFVX3lxTE80OUlxQlY0WVpZdVFWbS1OQmxIekVlZzZMb3gyOC1RXzBZc0NDNThzLVliWVpOM0NVS0hNd0wzdDZqTW1mSE9PYjVWVEVJaHBFX0ZZVkpndm9MZUdsc2RYbXJJM25hd2tQZ2xSUS1sTG91dw?oc=5
+・国立大学法人東京大学宇宙線研究所と連携に関する協定を締結！
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE4xM05DSlBtZzEzN0tOTl9GcEtlSmtVbEVSRndiSVBSbWZIcklJbGI1ZGVOWmowX0lVMVpjSGZ4ZUg5ejBhTkJRd3E4NXItSHRzOWctaEJ2b3BnRXV0Uy11dlBoUEFjbHlsYkpURm5lN293QTRoQjZUUmJibw?oc=5
+・福井大、セーレン 包括連携 研究 テーマごとから組織同士へ 多彩な分野で革新目指す
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1qM3pfeFRIdDhhRFF0TjM0U3AzMzVVVl9fZFBaS3YwZUptejhUOHlqUkZ5c2VSd0ZvZFMweUZoeHVDTjJJZ2FBRlVmLWhMa2Q3U2haWlN0d25EUkw3N3A0WXdxN3ZjLUhpMV9VRnVaTXVWd080UlJ4cEhn0gF_QVVfeXFMT3puVU5kblZmNVo1ejBoQjliOTdWc1RwOEJGTlN3QkgzZEVyVEZIdVpqUTNMTExfVG1iMGlmdldxc3B5WlVxaFVzaTJCVlNSLS1ZZ2hmelJEbEpzenNyRnVDR29uZ0xoV3BVMWNmUW9Ra3RDOXQ2LUxlajZmRENVMA?oc=5
+・福井大、セーレン包括連携 多彩な分野で革新目指す
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CME5DSW9GaG5CWHBtRWxWX19yTF9MUDd1WUhCckxnWXBaQ1FibVNVTHFTWFd2Y0d0ZmZhMHhoZ2Q5Q1FKUFdJYjFnLW1wbmV3WV93dQ?oc=5
 ・La NASA abre solicitudes para próxima promoción de directores de vuelo
   https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/
 ・NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests
   https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/
-・将来宇宙輸送システム、元IHIエアロスペース技師長の大塚浩仁氏がCTOに、 元JAXA監事の三宅正純氏が常勤監査役に就任
-  https://news.google.com/rss/articles/CBMidkFVX3lxTE9Kbnlqak9mTnlVZ2phUXd2aVFMb25HNFU0d0F2RU05LWFfSmNhX2VncnY5b1p6am1nZlFRMWZyN0c2VGlCdHI2UXBybFplVFZWZjlpTlJIeXBod0NySWdjbnFreko1bXFma05TTEU0YjRmYTU1Nnc?oc=5
+・北海道スペースポート（HOSPO）の運営をコンセッション方式へ移行
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE4zN2NPcy1ac0EwMzN1TVNwZHNxOExuaVpwaUNkT3p2b2tBeWp2TXFzQmEtcFhWVW5KRGNWdUgzWWI4REYwMTJpMmR2X1NjLTFaNWNUUXVvV25SVnhOX2dvWHBTYUpoUjhaejJHUU0ydFFLb2RScmc?oc=5
 ・航空宇宙業界の品質マネジメントシステムAS9100の認証を取得
   https://news.google.com/rss/articles/CBMickFVX3lxTFBMNU90a3Qwb290SzhmQ3RFUUxFYmlKVXVrbTVzQ1h1T1p5UlZ3c0hSM3lrc211UlJSd1JhVTVaRlhrT2FhcWRobkRkTm80RU1WOU81Z256MjB6VTdJRmpPSjAwMV9QNFd2VmszY2ZkNmtRZw?oc=5
-・Week in images: 28 Sep - 2 Oct 2026
-  https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026
-・【減税TV 番外編】イーロン・マスクが宇宙開発を変えた本当の理由
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqQzRtR0ZqQWVveDJIbkktcnZQcXo5QXVZVWFIWG4wMHFEaGtReGNuMmFPX2ZDNkVsX2pmTEFOanFMY1BhSUFpeEpidDRUd1E1ak1nWE9CMlllb2hGZU84?oc=5
-・日本ゴム協会、国立極地研究所やJAXA等を見学―南極・北極、宇宙、リニアの“極限”に触れる
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGck5rcnQ2MnhzN3FMUGV2MW95UXkwREVaY2Z3MmVOdHJZeW5fRHFiSW5nUTZza0Vodi1DaXVqSG5DajNWMHVIOUYzbGpQbnF4QU5iSg?oc=5
-・河北新報社 ビズラボ 河北経済研究所
-  https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWm5CUjNDdEpYNFJBalRZNXFLSkhNeVZadHhCVnZtTmdmTE1BenJHNkZleGJQYzk1VjRSS2JITVhqdTROaGdJRzFLUS1MTXFaSzRzQXhVMFdvRUViWW90ZjRJel95MEppeVhlQnBn?oc=5
-・type転職フェア、AIエンジニア安野貴博氏が登壇 エンジニアの「存在意義」語る
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNjJEaXJTNW1XUldUMEZrb1RER0JGYkFBSnp1WnlZZTgxRl9wLV9NVU9EanZtT25MRDhUX1ZaYTNLcnE2eE9FTVRBTU02ZE9uVnpNTGtydTZzbHNHU2piVi1la1BmcXRJRGVwYzV3?oc=5
-・11/11(水)-13(金)に東京ビッグサイトで開催の「産業交流展2026」
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1clJMcU5MMmZqY1dyeklwZEtheHBOelduYXhZSmFjU1Zhb2E2TXlEY0U3dXp3ZWx1WHE0TlpDWlZqMWpwaHVkdkpad0hkak1HOWV2SA?oc=5
-・APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas
-  https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/
-・Rains Swamp the Gandak River
-  https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/
-・はやぶさ2、最後のイオンエンジンに異常 JAXA
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFB2OGYwdUZweTBOQTZSeWdJU3JYZENmLVpHT05DR2FYTGhrbjR2YmsxOGRSRW53NFM3bTFISHhUeXNEeGFYSlVxYjlKVTc5eXBqNE5tSGxHeXJaRlVfc2x0TEVzbnc1NjFTZmtMZw?oc=5
-・若い惑星「WISPIT 2b」がガスを乱す痕跡を確認 直接撮像された太陽系外惑星では初めて
-  https://sorae.info/astronomy/20261002-wispit-2b.html
-・インド・ベンガルールで宇宙テック展示会開催、初のジャパンパビリオンに日本企業8社が出展
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE5YZ3hIMW5CdnFBVlNOQ3pNOFk0REdmd3dzOVZmMElWU2g5bEtjd1hsa3dfal9OejFHbXdIWUxOUW1menVPZ3Y3ZHdzbGZlaWdPUkhZOWcwUk93NlhNaTV1Z01wS2lkMURGcWRtS01R?oc=5
-・インド・ベンガルールで宇宙テック展示会開催、初のジャパンパビリオンに日本企業8社が出展（インド）
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWElEdHN0MEZnM2t3YVN5TFR3TThJWXc0OE54bjk0Vm1xdjdxOGZvbVZ4YUdHSi1XMDloR0N0YkNaMWthc2tUbmY3OVJzTjRsbndEUXdHckVaak9kWUtxTDZLb2MwTjVhY3lJ?oc=5
-・注目の宇宙関連株3選 売上成長率最大18%のGEとRTXとIntuitive Machines
-  https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVZJRkVBemN5amQ0aTA5SmR6V0IyaFBCTWJ5dHlFTFd0ZldUN3MzTUt2WWdwVFhIRE9rbi1FbFlMdVRVbUc4ejBGRVhmVjFjSzRGNHdFTzh5U3M4aWVaMXdRU2ZxbWg3VmNVUEpxN2JZZ2xUUk9nbUZ0UTZPRUtXX0RBX2lGMjYyR0lFTEg1NVl3V19Sd3NhOVp6SXZJRVhl0gGgAUFVX3lxTE5lVklGRUF6Y3lqZDRpMDlKZHpXQjJoUEJNYnl0eUVMV3RmV1Q3czNNS3ZZZ3BUWEhET2tuLUVsWUx1VFVtRzh6MEZFWGZWMWNLNEY0d0VPOHlTczhpZVoxd1FTZnFtaDdWY1VQSnE3YllnbFRST2dtRnRRNk9FS1dfREFfaUYyNjJHSUVMSDU1WXdXX1J3c2E5WnpJdklFWGU?oc=5
-・＜画像2 / 7＞JAXAらが送る”未来のレストラン”メニューが世紀末的……。実食レポート
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE9GNGJVbTNFMTdKNjNRekRMRW5rck9QY0lPaUt1Sk1YRjdfdkVqX09uaGxfeEpsMHRaUVFkTXc5enFFVWNRYmRpejFOQVJ6THZhOHZYZ2hWWXZuSnhYc0t4WVBKTF9oZWxfZHc?oc=5
-・温室ガス情報を発信 国環研やJAXA
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lOE5wZFBwZmxzUHdydlVTZE5keVg2NFlPZnlzQ3pXaVNOWllrUlFZZ1BEN1NLc2pYRzRJb3pHRnB1YV9hYmJNSlMtTWhuaTlUUEh3VUtHT2FCc0RwMFE?oc=5
-・SPACETIDE、濱田牧子がシニア・バイス・プレジデントに就任 宇宙産業を支える人財の流入・育成と組織づくりを推進
-  https://news.google.com/rss/articles/CBMickFVX3lxTFBhaEE1anhEX1NzbjU5UVl6X2hhX0sxd2Jpbk1YN0JTRWhRQTRmWnV0LUQtaGNjaDNjSDMtQjZFdm5vcFctcDItZmdNRTFSS2pVREZid0hkbDAwUGF5Q2JmVzhjaVNYTXIwX0M1VXpwbnBJQQ?oc=5
-・株式会社DigitalBlast、宇宙産業カンファレンス「SpaceLINK Conference 2027」を共催
-  https://news.google.com/rss/articles/CBMickFVX3lxTE45bXpWaDFmaHZqM1RFcGRBalgzd0NXTGtwOUVQMko3RkpWc29CT1liUkk0ampfSUtNRTZHSTFwcUVCcVNacXoyNlR1VWZ2dTRNSlB1NklpWjNVLTQ1Y1c2bm1rZWs3d0xlZGo5bTRFeXZoZw?oc=5
 
 ― 毎朝9時(JST)に自動生成されています ―
